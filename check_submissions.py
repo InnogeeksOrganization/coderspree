@@ -7,8 +7,6 @@ from mdutils import Html
 import requests
 
 
-home = os.path.abspath(Path(__file__).parent)
-print(home)
 
 submission_architecture = {
     "GettingStarted": 5,
@@ -139,10 +137,10 @@ completed_student_list: List[Student] = []
 incompleted_student_list: List[Student] = []
 
 for domain in domains:
-    for filename in os.listdir(os.path.join(home, domain)):
+    for filename in os.listdir(os.path.join('./', domain)):
         [githubid, name, lidID] = filename.split("_")
         student = Student(name, githubid, lidID, domain)
-        check_structure(os.path.join(home, os.path.join(domain, filename)), student)
+        check_structure(os.path.join('./', os.path.join(domain, filename)), student)
         if student.completed:
             completed_student_list.append(student)
         else:
