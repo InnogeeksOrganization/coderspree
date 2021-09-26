@@ -154,8 +154,8 @@ write_to_readme("README.md", completed_student_list)
 write_to_pendingReadme("PendingStudents.md", incompleted_student_list)
 
 # for i in completed_student_list:
-#     print(i)
 #     print(i.logs)
+#     print(i)
 
 
 # for i in incompleted_student_list:
