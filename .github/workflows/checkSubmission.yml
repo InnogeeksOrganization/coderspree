@@ -20,9 +20,10 @@ jobs:
               run: |
                   pip install requests
                   pip install mdutils
+            - name: Run script
+              run: python check_submissions.py
             - uses: stefanzweifel/git-auto-commit-action@v4
               with:
                 commit_message: Update Readme
-            - name: Run script
-              run: python check_submissions.py
+
 
