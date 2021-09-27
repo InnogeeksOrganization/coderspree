@@ -2,6 +2,11 @@
 Coderspree
 ==========
   
+
+
+Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `2` |   
+
+# Stats
   
 
 |Profile|Name|Domain|Solved|
