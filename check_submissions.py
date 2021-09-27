@@ -45,11 +45,12 @@ class Student:
 
     def fetch_img_url(self):
         resp = requests.get(url=f"https://api.github.com/users/{self.githubID}")
-        data = resp.json()  
+        data = resp.json()
         try:
-            self.url = data['avatar_url'] + '&s=100'
+            self.url = data["avatar_url"] + "&s=100"
         except KeyError:
-            self.url = 'https://avatars.githubusercontent.com/u/84376218?v=4&s=100'
+            self.url = "https://avatars.githubusercontent.com/u/84376218?v=4&s=100"
+
 
 def check_structure(path, student: Student):
     folderName = os.listdir(path)
@@ -60,7 +61,9 @@ def check_structure(path, student: Student):
                 student.completed = False
 
             student.add_questions_solved(solved)
-            student.log_value(f"Completed `{solved}` with minimum `{value}` in `{key}`, ")
+            student.log_value(
+                f"Completed `{solved}` with minimum `{value}` in `{key}`, "
+            )
         else:
             student.completed = False
             student.log_value(f"`{key}` Folder not found, ")
@@ -69,6 +72,12 @@ def check_structure(path, student: Student):
 def write_to_readme(filename, students_list):
 
     mdFile = MdUtils(file_name=filename, title="Coderspree")
+
+    mdFile.new_line()
+    mdFile.new_paragraph(
+        "Minimum problems to complete | "
+        + "".join(f"**{key}**: `{value}` | " for key, value in submission_architecture.items())
+    )
 
     list_of_strings = ["Profile", "Name", "Domain", "Solved"]
 
@@ -89,6 +98,7 @@ def write_to_readme(filename, students_list):
             ]
         )
 
+    mdFile.new_header(level=1, title="Stats")
     mdFile.new_line()
     mdFile.new_table(
         columns=cols_count,
@@ -98,6 +108,7 @@ def write_to_readme(filename, students_list):
     )
 
     mdFile.create_md_file()
+
 
 def write_to_pendingReadme(filename, students_list):
 
@@ -119,7 +130,7 @@ def write_to_pendingReadme(filename, students_list):
                 student.name,
                 student.domain,
                 str(student.solved),
-                student.logs
+                student.logs,
             ]
         )
 
@@ -132,8 +143,8 @@ def write_to_pendingReadme(filename, students_list):
     )
 
     mdFile.create_md_file()
-    pass
-    
+
+
 completed_student_list: List[Student] = []
 incompleted_student_list: List[Student] = []
 
