@@ -1,4 +1,4 @@
-name: sanity tests
+name: Check Submissions
 
 on:
     push:
