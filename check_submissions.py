@@ -12,7 +12,6 @@ home = os.path.abspath(Path(__file__).parent)
 submission_architecture = {
     "GettingStarted": 5,
     "Patterns": 2,
-    "FunctionsAndArrays": 10
 }
 
 domains = ["AR-VR", "IOT", "ML", "Android", "Web"]
