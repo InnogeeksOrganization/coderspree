@@ -7,12 +7,10 @@ import requests
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {
-    "GettingStarted": 5,
-    "Patterns": 2
-}
+submission_architecture = {"GettingStarted": 5, "Patterns": 2}
 
 domains = ["AR-VR", "IOT", "ML", "Android", "Web"]
+
 
 class Student:
     def __init__(self, name, githubID, lilbraryid, domain, year):
@@ -37,6 +35,7 @@ class Student:
             Domain: {self.domain}
             Year: {self.year}
             Questions Solved: {self.solved}
+            Logs: {self.logs}
         """
 
     def log_value(self, val):
@@ -50,11 +49,18 @@ class Student:
         except KeyError:
             self.url = "https://avatars.githubusercontent.com/u/84376218?v=4&s=100"
 
+
 def check_structure(path, student: Student):
     folderName = os.listdir(path)
+    folderNameLowered = [x.lower() for x in folderName]
+
     for key, value in submission_architecture.items():
-        if key in folderName:
-            solved = len(os.listdir(os.path.join(path, key)))
+        if key.lower() in folderNameLowered:
+            solved = len(
+                os.listdir(
+                    os.path.join(path, folderName[folderNameLowered.index(key.lower())])
+                )
+            )
             if solved < value:
                 student.completed = False
 
@@ -74,7 +80,9 @@ def write_to_readme(filename, students_list):
     mdFile.new_line()
     mdFile.new_paragraph(
         "Minimum problems to complete | "
-        + "".join(f"**{key}**: `{value}` | " for key, value in submission_architecture.items())
+        + "".join(
+            f"**{key}**: `{value}` | " for key, value in submission_architecture.items()
+        )
     )
 
     list_of_strings = ["Profile", "Name", "Domain", "Year", "Solved"]
@@ -93,7 +101,7 @@ def write_to_readme(filename, students_list):
                 student.name,
                 student.domain,
                 student.year,
-                str(student.solved)
+                str(student.solved),
             ]
         )
 
@@ -130,7 +138,7 @@ def write_to_pendingReadme(filename, students_list):
                 student.domain,
                 str(student.solved),
                 student.year,
-                student.logs
+                student.logs,
             ]
         )
 
@@ -141,7 +149,6 @@ def write_to_pendingReadme(filename, students_list):
         text=list_of_strings,
         text_align="center",
     )
-
 
     mdFile.create_md_file()
 
@@ -165,6 +172,14 @@ completed_student_list.sort(key=lambda x: x.solved, reverse=True)
 write_to_readme("README.md", completed_student_list)
 write_to_pendingReadme("PendingStudents.md", incompleted_student_list)
 
+
+print("============================COMPLETE STUDENTS LOGS============================")
+for student in completed_student_list:
+    print(student)
+
 # print to github actions
+print(
+    "============================INCOMPLETE STUDENTS LOGS============================"
+)
 for student in incompleted_student_list:
     print(student)
