@@ -40,6 +40,7 @@ Minimum problems to complete | **GettingStarted**: `0` |
 |![AnkitYadav](https://avatars.githubusercontent.com/u/66520710?v=4&s=100)|AnkitYadav|ML|3|1|
 |![MukulDixit](https://avatars.githubusercontent.com/u/55882740?v=4&s=100)|MukulDixit|ML|3|1|
 |![ashutosh](https://avatars.githubusercontent.com/u/60190101?v=4&s=100)|ashutosh|ML|3|1|
+|![ShreyaShankar](https://avatars.githubusercontent.com/u/65847819?v=4&s=100)|ShreyaShankar|ML|3|1|
 |![AnandSingh](https://avatars.githubusercontent.com/u/55613029?v=4&s=100)|AnandSingh|Android|Invalid Foldername|1|
 |![PrashantGupta](https://avatars.githubusercontent.com/u/53941491?v=4&s=100)|PrashantGupta|Web|3|1|
 |![UmangGoel](https://avatars.githubusercontent.com/u/63296710?v=4&s=100)|UmangGoel|Web|3|1|
