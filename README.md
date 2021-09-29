@@ -25,6 +25,7 @@ Minimum problems to complete | **GettingStarted**: `0` |
 |![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|3|
 |![PrakharRastogi](https://avatars.githubusercontent.com/u/73363063?v=4&s=100)|PrakharRastogi|Web|3|2|
 |![sarveshkumar](https://avatars.githubusercontent.com/u/58571739?v=4&s=100)|sarveshkumar|Web|3|2|
+|![ShristySharma](https://avatars.githubusercontent.com/u/63495575?v=4&s=100)|ShristySharma|Web|3|2|
 |![DemoAccount](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DemoAccount|AR-VR|5th|1|
 |![TahaJamal](https://avatars.githubusercontent.com/u/60614154?v=4&s=100)|TahaJamal|AR-VR|3|1|
 |![TusharGupta2](https://avatars.githubusercontent.com/u/30565750?v=4&s=100)|TusharGupta2|AR-VR|3|1|
