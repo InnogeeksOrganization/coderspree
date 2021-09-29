@@ -85,15 +85,18 @@ def write_to_readme(filename, students_list):
         )
     )
 
-    list_of_strings = ["Profile", "Name", "Domain", "Year", "Solved"]
+    list_of_strings = ["No", "Profile", "Name", "Domain", "Year", "Solved"]
 
     cols_count = len(list_of_strings)
     mdFile.new_line()
 
+    count = 0
     for x in range(len(students_list)):
         student = students_list[x]
+        count += 1
         list_of_strings.extend(
             [
+                count,
                 mdFile.new_inline_image(
                     text=student.name,
                     path=student.url,
@@ -179,7 +182,7 @@ for domain in domains:
         else:
             incompleted_student_list.append(student)
 
-incompleted_student_list.sort(key=lambda x: x.solved)
+incompleted_student_list.sort(key=lambda x: x.solved, reverse=True)
 completed_student_list.sort(key=lambda x: x.solved, reverse=True)
 
 write_to_readme("README.md", completed_student_list)
