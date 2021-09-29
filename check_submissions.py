@@ -7,7 +7,7 @@ import requests
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {"GettingStarted": 5, "Patterns": 2}
+submission_architecture = {"GettingStarted": 0}
 
 domains = ["AR-VR", "IOT", "ML", "Android", "Web"]
 
@@ -158,7 +158,20 @@ incompleted_student_list: List[Student] = []
 
 for domain in domains:
     for filename in os.listdir(os.path.join(home, domain)):
-        [githubid, name, lidID, year] = filename.split("_")
+        year = "Invalid Foldername"
+        name = "Invalid Foldername"
+        libId = "Invalid Foldername"
+        githubid = "Invalid Foldername"
+        try:
+            [githubid, name, lidID, year] = filename.split("_")
+        except ValueError:
+            print(filename, "is not correct")
+        if name == "Invalid Foldername":
+            try:
+                [githubid, name, lidID] = filename.split("_")
+            except ValueError:
+                print(filename, "is not correct")
+            
         student = Student(name, githubid, lidID, domain, year)
         check_structure(os.path.join(home, os.path.join(domain, filename)), student)
         if student.completed:
