@@ -7,7 +7,7 @@ import requests
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {"GettingStarted": 5, "Patterns": 2}
+submission_architecture = {"GettingStarted": 0}
 
 domains = ["AR-VR", "IOT", "ML", "Android", "Web"]
 
@@ -85,15 +85,18 @@ def write_to_readme(filename, students_list):
         )
     )
 
-    list_of_strings = ["Profile", "Name", "Domain", "Year", "Solved"]
+    list_of_strings = ["No", "Profile", "Name", "Domain", "Year", "Solved"]
 
     cols_count = len(list_of_strings)
     mdFile.new_line()
 
+    count = 0
     for x in range(len(students_list)):
         student = students_list[x]
+        count += 1
         list_of_strings.extend(
             [
+                count,
                 mdFile.new_inline_image(
                     text=student.name,
                     path=student.url,
@@ -158,7 +161,20 @@ incompleted_student_list: List[Student] = []
 
 for domain in domains:
     for filename in os.listdir(os.path.join(home, domain)):
-        [githubid, name, lidID, year] = filename.split("_")
+        year = "Invalid Foldername"
+        name = "Invalid Foldername"
+        libId = "Invalid Foldername"
+        githubid = "Invalid Foldername"
+        try:
+            [githubid, name, lidID, year] = filename.split("_")
+        except ValueError:
+            print(filename, "is not correct")
+        if name == "Invalid Foldername":
+            try:
+                [githubid, name, lidID] = filename.split("_")
+            except ValueError:
+                print(filename, "is not correct")
+            
         student = Student(name, githubid, lidID, domain, year)
         check_structure(os.path.join(home, os.path.join(domain, filename)), student)
         if student.completed:
@@ -166,7 +182,7 @@ for domain in domains:
         else:
             incompleted_student_list.append(student)
 
-incompleted_student_list.sort(key=lambda x: x.solved)
+incompleted_student_list.sort(key=lambda x: x.solved, reverse=True)
 completed_student_list.sort(key=lambda x: x.solved, reverse=True)
 
 write_to_readme("README.md", completed_student_list)

@@ -6,5 +6,6 @@ Coderspree
 
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|![DemoAccount](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DemoAccount|AR-VR|1|5th|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
-|![YashAgarwal](https://avatars.githubusercontent.com/u/59206738?v=4&s=100)|YashAgarwal|IOT|1|3|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
+|![DevanshJha](https://avatars.githubusercontent.com/u/62210359?v=4&s=100)|DevanshJha|IOT|0|3rdYear|`GettingStarted` Folder not found, |
+|![NikitaGupta](https://avatars.githubusercontent.com/u/68268617?v=4&s=100)|NikitaGupta|Web|0|3|`GettingStarted` Folder not found, |
+|![DurgeshAgrhari](https://avatars.githubusercontent.com/u/65119161?v=4&s=100)|DurgeshAgrhari|Web|0|3|`GettingStarted` Folder not found, |
