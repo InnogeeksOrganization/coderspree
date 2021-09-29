@@ -32,5 +32,6 @@ Minimum problems to complete | **GettingStarted**: `0` |
 |![SatyamKhanna](https://avatars.githubusercontent.com/u/52063544?v=4&s=100)|SatyamKhanna|IOT|3|1|
 |![YashAgarwal](https://avatars.githubusercontent.com/u/59206738?v=4&s=100)|YashAgarwal|IOT|3|1|
 |![snehaagarwal](https://avatars.githubusercontent.com/u/91549661?v=4&s=100)|snehaagarwal|IOT|3|1|
+|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|1|
 |![MukulDixit](https://avatars.githubusercontent.com/u/55882740?v=4&s=100)|MukulDixit|ML|3|1|
 |![AnandSingh](https://avatars.githubusercontent.com/u/55613029?v=4&s=100)|AnandSingh|Android|Invalid Foldername|1|
