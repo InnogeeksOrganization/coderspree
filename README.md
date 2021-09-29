@@ -20,6 +20,7 @@ Minimum problems to complete | **GettingStarted**: `0` |
 |![DemoAccount](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DemoAccount|Web|5th|7|
 |![SanchitaMishra](https://avatars.githubusercontent.com/u/59258203?v=4&s=100)|SanchitaMishra|Web|3|7|
 |![KushagraSir](https://avatars.githubusercontent.com/u/57976400?v=4&s=100)|KushagraSir|Web|3|7|
+|![AmoghNagar](https://avatars.githubusercontent.com/u/66239105?v=4&s=100)|AmoghNagar|Web|3|7|
 |![TusharGupta](https://avatars.githubusercontent.com/u/30565750?v=4&s=100)|TusharGupta|AR-VR|3|6|
 |![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|3|
 |![PrakharRastogi](https://avatars.githubusercontent.com/u/73363063?v=4&s=100)|PrakharRastogi|Web|3|2|
