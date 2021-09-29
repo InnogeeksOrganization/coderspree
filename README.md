@@ -34,6 +34,7 @@ Minimum problems to complete | **GettingStarted**: `0` |
 |![SnehaGupta](https://avatars.githubusercontent.com/u/63196333?v=4&s=100)|SnehaGupta|AR-VR|3|1|
 |![SatyamKhanna](https://avatars.githubusercontent.com/u/52063544?v=4&s=100)|SatyamKhanna|IOT|3|1|
 |![YashAgarwal](https://avatars.githubusercontent.com/u/59206738?v=4&s=100)|YashAgarwal|IOT|3|1|
+|![ShashwatKapoor](https://avatars.githubusercontent.com/u/74201117?v=4&s=100)|ShashwatKapoor|IOT|3|1|
 |![snehaagarwal](https://avatars.githubusercontent.com/u/91549661?v=4&s=100)|snehaagarwal|IOT|3|1|
 |![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|1|
 |![AsthaGoel](https://avatars.githubusercontent.com/u/62610706?v=4&s=100)|AsthaGoel|ML|3|1|
