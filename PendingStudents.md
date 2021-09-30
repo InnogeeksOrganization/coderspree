@@ -7,6 +7,7 @@ Coderspree
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![DevanshJha](https://avatars.githubusercontent.com/u/62210359?v=4&s=100)|DevanshJha|IOT|0|3rdYear|`GettingStarted` Folder not found, |
+|![ShrutiSingh](https://avatars.githubusercontent.com/u/82566938?v=4&s=100)|ShrutiSingh|ML|0|2|`GettingStarted` Folder not found, |
 |![AmbujKulshreshtha](https://avatars.githubusercontent.com/u/76522659?v=4&s=100)|AmbujKulshreshtha|ML|0|2|`GettingStarted` Folder not found, |
 |![shivam](https://avatars.githubusercontent.com/u/67598248?v=4&s=100)|shivam|ML|0|2|`GettingStarted` Folder not found, |
 |![SahilSaxena](https://avatars.githubusercontent.com/u/81617632?v=4&s=100)|SahilSaxena|Android|0|2|`GettingStarted` Folder not found, |
