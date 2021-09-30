@@ -11,10 +11,10 @@ Minimum problems to complete | **GettingStarted**: `0` |
 
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|1|![AmoghNagar](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmoghNagar|Web|3|7|
-|2|![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|3|5|
-|3|![VanshikaSinghal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VanshikaSinghal|Web|3|5|
-|4|![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|3|
+|1|![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|7|
+|2|![AmoghNagar](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmoghNagar|Web|3|7|
+|3|![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|3|5|
+|4|![VanshikaSinghal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VanshikaSinghal|Web|3|5|
 |5|![DeepakChaturvedi](https://avatars.githubusercontent.com/u/61619479?v=4&s=100)|DeepakChaturvedi|AR-VR|3|2|
 |6|![ShubhankDwivedi](https://avatars.githubusercontent.com/u/81324099?v=4&s=100)|ShubhankDwivedi|AR-VR|2ndYear|2|
 |7|![YashAgarwal](https://avatars.githubusercontent.com/u/59206738?v=4&s=100)|YashAgarwal|IOT|3|2|
