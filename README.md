@@ -28,14 +28,16 @@ Minimum problems to complete | **GettingStarted**: `0` |
 |15|![SatyamKhanna](https://avatars.githubusercontent.com/u/52063544?v=4&s=100)|SatyamKhanna|IOT|3|1|
 |16|![ShashwatKapoor](https://avatars.githubusercontent.com/u/74201117?v=4&s=100)|ShashwatKapoor|IOT|3|1|
 |17|![snehaagarwal](https://avatars.githubusercontent.com/u/91549661?v=4&s=100)|snehaagarwal|IOT|3|1|
-|18|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|1|
-|19|![AsthaGoel](https://avatars.githubusercontent.com/u/62610706?v=4&s=100)|AsthaGoel|ML|3|1|
-|20|![AnkitYadav](https://avatars.githubusercontent.com/u/66520710?v=4&s=100)|AnkitYadav|ML|3|1|
-|21|![MukulDixit](https://avatars.githubusercontent.com/u/55882740?v=4&s=100)|MukulDixit|ML|3|1|
-|22|![ashutosh](https://avatars.githubusercontent.com/u/60190101?v=4&s=100)|ashutosh|ML|3|1|
-|23|![ShreyaShankar](https://avatars.githubusercontent.com/u/65847819?v=4&s=100)|ShreyaShankar|ML|3|1|
-|24|![AnandSingh](https://avatars.githubusercontent.com/u/55613029?v=4&s=100)|AnandSingh|Android|Invalid Foldername|1|
-|25|![MuskanGupta](https://avatars.githubusercontent.com/u/83127546?v=4&s=100)|MuskanGupta|Web|3|1|
-|26|![PrashantGupta](https://avatars.githubusercontent.com/u/53941491?v=4&s=100)|PrashantGupta|Web|3|1|
-|27|![UmangGoel](https://avatars.githubusercontent.com/u/63296710?v=4&s=100)|UmangGoel|Web|3|1|
-|28|![SaksheeVarshney](https://avatars.githubusercontent.com/u/66488392?v=4&s=100)|SaksheeVarshney|Web|3|1|
+|18|![VanshikaNamdev](https://avatars.githubusercontent.com/u/64363094?v=4&s=100)|VanshikaNamdev|ML|3|1|
+|19|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|1|
+|20|![AsthaGoel](https://avatars.githubusercontent.com/u/62610706?v=4&s=100)|AsthaGoel|ML|3|1|
+|21|![AnkitYadav](https://avatars.githubusercontent.com/u/66520710?v=4&s=100)|AnkitYadav|ML|3|1|
+|22|![MukulDixit](https://avatars.githubusercontent.com/u/55882740?v=4&s=100)|MukulDixit|ML|3|1|
+|23|![ashutosh](https://avatars.githubusercontent.com/u/60190101?v=4&s=100)|ashutosh|ML|3|1|
+|24|![ShreyaShankar](https://avatars.githubusercontent.com/u/65847819?v=4&s=100)|ShreyaShankar|ML|3|1|
+|25|![AnandSingh](https://avatars.githubusercontent.com/u/55613029?v=4&s=100)|AnandSingh|Android|Invalid Foldername|1|
+|26|![MuskanGupta](https://avatars.githubusercontent.com/u/83127546?v=4&s=100)|MuskanGupta|Web|3|1|
+|27|![PrashantGupta](https://avatars.githubusercontent.com/u/53941491?v=4&s=100)|PrashantGupta|Web|3|1|
+|28|![UmangGoel](https://avatars.githubusercontent.com/u/63296710?v=4&s=100)|UmangGoel|Web|3|1|
+|29|![SaksheeVarshney](https://avatars.githubusercontent.com/u/66488392?v=4&s=100)|SaksheeVarshney|Web|3|1|
+|30|![AyushiTyagi](https://avatars.githubusercontent.com/u/60479969?v=4&s=100)|AyushiTyagi|Web|3|1|
