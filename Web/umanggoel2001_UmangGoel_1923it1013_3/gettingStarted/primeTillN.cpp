@@ -1,3 +1,4 @@
+//this programs prints the n prime numbers
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
