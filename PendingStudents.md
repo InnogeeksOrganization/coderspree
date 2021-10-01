@@ -8,7 +8,6 @@ Coderspree
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![DevanshJha](https://avatars.githubusercontent.com/u/62210359?v=4&s=100)|DevanshJha|IOT|0|3rdYear|`GettingStarted` Folder not found, |
 |![VanshikaSrivastava](https://avatars.githubusercontent.com/u/85017987?v=4&s=100)|VanshikaSrivastava|IOT|0|2|`GettingStarted` Folder not found, |
-|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|0|2|`GettingStarted` Folder not found, |
 |![ShrutiSingh](https://avatars.githubusercontent.com/u/82566938?v=4&s=100)|ShrutiSingh|ML|0|2|`GettingStarted` Folder not found, |
 |![shivam](https://avatars.githubusercontent.com/u/67598248?v=4&s=100)|shivam|ML|0|2|`GettingStarted` Folder not found, |
 |![AmbujKulshreshtha](https://avatars.githubusercontent.com/u/82520623?v=4&s=100)|AmbujKulshreshtha|ML|0|2|`GettingStarted` Folder not found, |
