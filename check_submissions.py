@@ -77,6 +77,12 @@ def write_to_readme(filename, students_list):
 
     mdFile = MdUtils(file_name=filename, title="Coderspree")
 
+    mdFile.new_paragraph(
+        mdFile.new_inline_image(
+            text="Status badge",
+            path="https://github.com/InnogeeksOrganization/coderspree/actions/workflows/checkSubmission.yml/badge.svg",
+        )
+    )
     mdFile.new_line()
     mdFile.new_paragraph(
         "Minimum problems to complete | "
@@ -174,7 +180,7 @@ for domain in domains:
                 [githubid, name, lidID] = filename.split("_")
             except ValueError:
                 print(filename, "is not correct")
-            
+
         student = Student(name, githubid, lidID, domain, year)
         check_structure(os.path.join(home, os.path.join(domain, filename)), student)
         if student.completed:
