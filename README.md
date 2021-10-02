@@ -13,9 +13,9 @@ Minimum problems to complete | **GettingStarted**: `0` |
 
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|1|![AmoghNagar](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmoghNagar|Web|3|12|
-|2|![Ayushkumarsingh](https://avatars.githubusercontent.com/u/78909117?v=4&s=100)|Ayushkumarsingh|ML|2|11|
-|3|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|8|
+|1|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|12|
+|2|![AmoghNagar](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmoghNagar|Web|3|12|
+|3|![Ayushkumarsingh](https://avatars.githubusercontent.com/u/78909117?v=4&s=100)|Ayushkumarsingh|ML|2|11|
 |4|![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|7|
 |5|![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|3|7|
 |6|![VanshikaSinghal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VanshikaSinghal|Web|3|5|
