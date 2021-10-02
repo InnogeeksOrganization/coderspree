@@ -14,10 +14,10 @@ Minimum problems to complete | **GettingStarted**: `0` |
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1|![Ayushkumarsingh](https://avatars.githubusercontent.com/u/78909117?v=4&s=100)|Ayushkumarsingh|ML|2|16|
-|2|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|12|
+|2|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|13|
 |3|![AmoghNagar](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmoghNagar|Web|3|12|
-|4|![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|7|
-|5|![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|3|7|
+|4|![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|3|8|
+|5|![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|7|
 |6|![VanshikaSinghal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VanshikaSinghal|Web|3|5|
 |7|![UmangGoel](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|UmangGoel|Web|3|5|
 |8|![AnjumanHasan](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AnjumanHasan|Android|2|3|
