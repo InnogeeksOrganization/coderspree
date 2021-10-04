@@ -19,7 +19,7 @@ Minimum problems to complete | **GettingStarted**: `0` |
 |1|![Ayushkumarsingh](https://avatars.githubusercontent.com/u/78909117?v=4&s=100)|Ayushkumarsingh|ML|2|16|
 |2|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|13|
 |3|![AmoghNagar](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmoghNagar|Web|3|12|
-|4|![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|3|8|
+|4|![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|3|11|
 |5|![AmbujKulshreshtha](https://avatars.githubusercontent.com/u/82520623?v=4&s=100)|AmbujKulshreshtha|ML|2|8|
 |6|![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|7|
 |7|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|6|
