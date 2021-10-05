@@ -1,7 +1,6 @@
 #include<iostream>
-#include<stdio.h>
 using namespace std;
 int main(){
-    cout<<"helloworld";
+    cout<<"*****\n   *\n  *\n *\n*****";
     return 0;
 }
