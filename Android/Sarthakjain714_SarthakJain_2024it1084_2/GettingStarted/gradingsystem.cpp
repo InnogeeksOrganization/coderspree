@@ -11,7 +11,7 @@ int main(){
     else if(marks>80 && marks<=90){
         cout<<"good";
     }
-    else if(marks>70 && marks<=80){
+    else if(marks>70 && marks<=80){ 
         cout<<"fair";
     }
     else if(marks>60 && marks<=70){

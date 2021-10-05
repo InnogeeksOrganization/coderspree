@@ -27,7 +27,7 @@ int main(){
             cout<<"not prime"<<endl;
         }
         else if(isprime==1) {
-            cout<<"prime"<<endl;
+            cout<<"prime"<<endl; 
         }
         t--;
     }
