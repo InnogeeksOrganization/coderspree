@@ -1,8 +1,20 @@
 Guidelines for submission
 
-- Make a folder under your domain name with the following format `GitHubUserName_RealName_LibraryID_year`
+- Make a folder under your domain name with the following format `tushar5526_TusharGupta_1923csi1086_3`
 
 Example: `tushar5526_TusharGupta_1923csi1086_3`
+
+## The folder should be structured as follows:
+
+- `tushar5526_TusharGupta_1923csi1086_3`
+  - `GettingStarted`
+    - `printZ.cpp` ( your code files )
+    - `nextQuestion.cpp`
+  - `Patterns`
+    - `patternQuestion.cpp`
+    - `.`
+    - `.`
+and so on....
 
 ## How to make a submission
 
