@@ -9,7 +9,7 @@ Coderspree
 Please visit the [Guide](./Guide/README.md)  
 
 
-Minimum problems to complete | **GettingStarted**: `6` |   
+Minimum problems to complete | **GettingStarted**: `5` |   
 
 # Stats
   
@@ -35,3 +35,9 @@ Minimum problems to complete | **GettingStarted**: `6` |
 |17|![Piyushgupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Piyushgupta|Web|2|6|
 |18|![snehaJaiswal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|snehaJaiswal|Web|2|6|
 |19|![SwastikNanda](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SwastikNanda|Web|2|6|
+|20|![KritishShukla](https://avatars.githubusercontent.com/u/84233260?v=4&s=100)|KritishShukla|AR-VR|2|5|
+|21|![RiyaSrivastava](https://avatars.githubusercontent.com/u/82600662?v=4&s=100)|RiyaSrivastava|ML|2|5|
+|22|![AmanKumarShrivastava](https://avatars.githubusercontent.com/u/81643753?v=4&s=100)|AmanKumarShrivastava|ML|2|5|
+|23|![SoumenPaul](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SoumenPaul|Android|2|5|
+|24|![VanshikaSinghal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VanshikaSinghal|Web|3|5|
+|25|![NikitaGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|NikitaGupta|Web|3|5|
