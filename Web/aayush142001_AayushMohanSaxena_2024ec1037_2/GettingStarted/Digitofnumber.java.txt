@@ -8,9 +8,9 @@ int temp = n;
 while (temp >= 10) {
 temp /= 10;
 p *= 10;
- }
- temp = n;
- while (p != 0) {
+}
+temp = n;
+while (p != 0) {
 int digit = temp / p;
 System.out.println(digit);
 temp = temp % p;
