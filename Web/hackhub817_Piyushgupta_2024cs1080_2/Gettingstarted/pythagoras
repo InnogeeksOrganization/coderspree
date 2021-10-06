@@ -1,0 +1,43 @@
+import java.util.*;
+  
+  public class Main{
+  
+  public static void main(String[] args) {
+    Scanner sc=new Scanner (System.in);
+    int a=sc.nextInt();
+    int b=sc.nextInt();
+    int c=sc.nextInt();
+    int hypo=0;
+    int base=0;
+    int per=0;
+    if(a>b && a>c)
+    {
+        hypo=a;
+        per=b;
+        base=c;
+    }
+    if(b>a && b>c)
+    {
+        hypo=b;
+        per=a;
+        base=c;
+    }
+    if(c>a && c>b)
+    {
+        hypo=c;
+        per=a;
+        base=b;
+        
+    }
+    int s=(base*base)+(per*per);
+    int k= (hypo*hypo);
+    if(k==s)
+    {
+        System.out.println("true");
+    }
+    else
+    {
+        System.out.println("false");
+    }
+   }
+  }
