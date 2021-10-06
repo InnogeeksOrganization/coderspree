@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+ long n,i=0;
+int rem,a[10];
+cin>>n;
+
+ while(n>0)
+{
+   rem=n%10;
+   n=n/10;
+   a[i]=rem;
+   i++;
+}
+for(int k=i-1;k>=0;k--)
+{  cout<<a[k]<<"\n";
+}
+
+return 0;
+}
