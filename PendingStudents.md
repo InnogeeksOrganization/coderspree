@@ -6,15 +6,14 @@ Coderspree
 
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|![PriyanshuRathaur](https://avatars.githubusercontent.com/u/86730388?v=4&s=100)|PriyanshuRathaur|AR-VR|4|2|Completed `4` with minimum `5` in `GettingStarted`, |
 |![SparshBansal](https://avatars.githubusercontent.com/u/78899820?v=4&s=100)|SparshBansal|ML|4|2|Completed `4` with minimum `5` in `GettingStarted`, |
 |![ShrutiSingh](https://avatars.githubusercontent.com/u/82566938?v=4&s=100)|ShrutiSingh|ML|4|2|Completed `4` with minimum `5` in `GettingStarted`, |
+|![AmanDixit](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmanDixit|ML|4|2|Completed `4` with minimum `5` in `GettingStarted`, |
 |![SarthakJain](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SarthakJain|Android|4|2|Completed `4` with minimum `5` in `GettingStarted`, |
 |![aashishraghav](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|aashishraghav|Android|4|2|Completed `4` with minimum `5` in `GettingStarted`, |
 |![AkankshaSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AkankshaSingh|Web|4|2|Completed `4` with minimum `5` in `GettingStarted`, |
 |![AyushKumar](https://avatars.githubusercontent.com/u/77633249?v=4&s=100)|AyushKumar|AR-VR|3|2|Completed `3` with minimum `5` in `GettingStarted`, |
 |![DeveshChandra](https://avatars.githubusercontent.com/u/82612473?v=4&s=100)|DeveshChandra|ML|3|2|Completed `3` with minimum `5` in `GettingStarted`, |
-|![AmanDixit](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmanDixit|ML|3|2|Completed `3` with minimum `5` in `GettingStarted`, |
 |![PrathamBulani](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|PrathamBulani|Android|3|Invalid Foldername|Completed `3` with minimum `5` in `GettingStarted`, |
 |![PriyankaGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|PriyankaGupta|Android|3|2|Completed `3` with minimum `5` in `GettingStarted`, |
 |![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|3|2|Completed `3` with minimum `5` in `GettingStarted`, |
@@ -22,7 +21,6 @@ Coderspree
 |![AkshatSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AkshatSingh|Web|3|2|Completed `3` with minimum `5` in `GettingStarted`, |
 |![DeepakChaturvedi](https://avatars.githubusercontent.com/u/61619479?v=4&s=100)|DeepakChaturvedi|AR-VR|2|3|Completed `2` with minimum `5` in `GettingStarted`, |
 |![ShubhankDwivedi](https://avatars.githubusercontent.com/u/81324099?v=4&s=100)|ShubhankDwivedi|AR-VR|2|2ndYear|Completed `2` with minimum `5` in `GettingStarted`, |
-|![YashAgarwal](https://avatars.githubusercontent.com/u/59206738?v=4&s=100)|YashAgarwal|IOT|2|3|Completed `2` with minimum `5` in `GettingStarted`, |
 |![JyotiKumariOjha](https://avatars.githubusercontent.com/u/82596078?v=4&s=100)|JyotiKumariOjha|ML|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
 |![ParasTiwari](https://avatars.githubusercontent.com/u/82591460?v=4&s=100)|ParasTiwari|ML|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
 |![DivyaAgarwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DivyaAgarwal|Android|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
