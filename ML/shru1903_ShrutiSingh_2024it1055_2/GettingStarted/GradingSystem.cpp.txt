@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+int main(int argc, char**argv){
+    int marks;
+    cin>>marks;
+    
+    if(marks>90)
+    std::cout<<"excellent";
+    if(marks>80 && marks<=90)
+    std::cout<<"good";
+    else
+      if(marks>70 && marks<=80)
+      std::cout<<"fair";
+      else
+        if(marks>60 && marks<=70)
+        std::cout<<"meets expectations";
+         else
+         if(marks<=60)
+          std::cout<<"below par";
+    
+}
