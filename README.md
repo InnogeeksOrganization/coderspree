@@ -50,4 +50,5 @@ Minimum problems to complete | **GettingStarted**: `5` |
 |32|![SoumenPaul](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SoumenPaul|Android|2|5|
 |33|![PriyankaGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|PriyankaGupta|Android|2|5|
 |34|![VanshikaSinghal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VanshikaSinghal|Web|3|5|
-|35|![NikitaGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|NikitaGupta|Web|3|5|
+|35|![MadhaviSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|MadhaviSingh|Web|2|5|
+|36|![NikitaGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|NikitaGupta|Web|3|5|
