@@ -24,7 +24,6 @@ Coderspree
 |![ParasTiwari](https://avatars.githubusercontent.com/u/82591460?v=4&s=100)|ParasTiwari|ML|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
 |![DivyaAgarwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DivyaAgarwal|Android|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
 |![TejashSeth](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TejashSeth|Android|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
-|![ArchiMittal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ArchiMittal|Web|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
 |![sarveshkumar](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|sarveshkumar|Web|2|3|Completed `2` with minimum `5` in `GettingStarted`, |
 |![MadhaviSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|MadhaviSingh|Web|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
 |![ShristySharma](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ShristySharma|Web|2|3|Completed `2` with minimum `5` in `GettingStarted`, |
