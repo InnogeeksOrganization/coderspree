@@ -31,11 +31,11 @@ Minimum problems to complete | **GettingStarted**: `5` |
 |13|![KopalKapoor](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|KopalKapoor|ML|2|9|
 |14|![SahilBhragudev](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SahilBhragudev|Android|2|9|
 |15|![AayushMohanSaxena](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AayushMohanSaxena|Web|2|9|
-|16|![ArchiMittal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ArchiMittal|Web|2|8|
-|17|![SwastikNanda](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SwastikNanda|Web|2|8|
-|18|![MaazMahmood](https://avatars.githubusercontent.com/u/83294849?v=4&s=100)|MaazMahmood|AR-VR|2|7|
-|19|![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|7|
-|20|![RiyaSrivastava](https://avatars.githubusercontent.com/u/82600662?v=4&s=100)|RiyaSrivastava|ML|2|7|
+|16|![RiyaSrivastava](https://avatars.githubusercontent.com/u/82600662?v=4&s=100)|RiyaSrivastava|ML|2|8|
+|17|![ArchiMittal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ArchiMittal|Web|2|8|
+|18|![SwastikNanda](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SwastikNanda|Web|2|8|
+|19|![MaazMahmood](https://avatars.githubusercontent.com/u/83294849?v=4&s=100)|MaazMahmood|AR-VR|2|7|
+|20|![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|3|7|
 |21|![PrakharRastogi](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|PrakharRastogi|Web|3|7|
 |22|![AkankshaSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AkankshaSingh|Web|2|7|
 |23|![AnupamTiwari](https://avatars.githubusercontent.com/u/81892907?v=4&s=100)|AnupamTiwari|AR-VR|2|6|
