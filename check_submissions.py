@@ -7,7 +7,7 @@ import requests
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {"GettingStarted": 0}
+submission_architecture = {"GettingStarted": 5}
 
 domains = ["AR-VR", "IOT", "ML", "Android", "Web"]
 
@@ -84,6 +84,11 @@ def write_to_readme(filename, students_list):
         )
     )
     mdFile.new_line()
+    
+    mdFile.new_paragraph('Please visit the [Guide](./Guide/README.md)')
+    
+    mdFile.new_line()
+    
     mdFile.new_paragraph(
         "Minimum problems to complete | "
         + "".join(
