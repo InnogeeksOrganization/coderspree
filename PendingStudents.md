@@ -51,7 +51,6 @@ Coderspree
 |![NikitaJain](https://avatars.githubusercontent.com/u/91686453?v=4&s=100)|NikitaJain|IOT|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![ANUPAMSHARMA](https://avatars.githubusercontent.com/u/91667813?v=4&s=100)|ANUPAMSHARMA|IOT|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![AnshulSinghGurjar](https://avatars.githubusercontent.com/u/90499262?v=4&s=100)|AnshulSinghGurjar|IOT|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
-|![AnshulNigam](https://avatars.githubusercontent.com/u/74321084?v=4&s=100)|AnshulNigam|IOT|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![VanshikaNamdev](https://avatars.githubusercontent.com/u/64363094?v=4&s=100)|VanshikaNamdev|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, |
 |![AryanTanwar](https://avatars.githubusercontent.com/u/81274845?v=4&s=100)|AryanTanwar|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, |
 |![AsthaGoel](https://avatars.githubusercontent.com/u/62610706?v=4&s=100)|AsthaGoel|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, |
