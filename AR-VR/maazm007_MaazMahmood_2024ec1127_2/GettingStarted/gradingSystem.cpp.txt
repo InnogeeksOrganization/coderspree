@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+int main(int argc, char **argv)
+{
+    int marks;
+    scanf("%d", &marks);
+    if (marks > 90)
+    {
+        printf("Excellent");
+    }
+    else if (marks > 80 || marks < 90)
+    {
+        printf("Good");
+    }
+    else if (marks > 70 || marks < 80)
+    {
+        printf("Fair");
+    }
+    else if (marks > 60 || marks < 70)
+    {
+        printf("meets Expectations");
+    }
+    else
+    {
+        printf("below par");
+    }
+
+    return 0;
+}
