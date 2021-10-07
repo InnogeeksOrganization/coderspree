@@ -1,0 +1,24 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int first_num= 0, second_num = 1, third_num, i, num;
+
+cin >> num;
+
+cout << first_num <<endl;
+cout <<  second_num <<endl;
+for(i = 0; i < num; i++) 
+{
+if(i <= 1)
+third_num = i;
+else
+{
+third_num = first_num + second_num;
+cout << third_num <<endl;
+first_num = second_num;
+second_num = third_num;
+}
+}
+return 0;
+}
