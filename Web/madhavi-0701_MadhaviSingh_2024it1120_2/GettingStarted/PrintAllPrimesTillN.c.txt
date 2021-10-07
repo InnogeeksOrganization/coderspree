@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main()
+{
+    int n,m,i,j,x,k;
+    printf("Enter the lower limit:");
+    scanf("%d",&n);
+    printf("Enter the upper limit:");
+    scanf("%d",&m);
+    for(j=n;j<=m;j++){
+        x=j/2;
+        k=0;
+        for(i=2;i<=x;i++){
+            if(j%i==0){
+                k=1;
+                break;
+            }
+        }
+        if(k==0){
+            printf("%d\n",j);
+        }
+        
+    }
+
+    return 0;
+}
