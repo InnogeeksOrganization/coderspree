@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin >> n;
+    int val2 = 0,val1 = 1;
+    if(n>=1)cout<<0<<endl;
+    if(n>=2)cout<<1<<endl;
+    for(int i=3;i<=n;i++){
+        int val = val2+val1;
+        val2=val1;
+        val1=val;
+        cout<<val1<<endl;
+    }
+  
+    
+}
