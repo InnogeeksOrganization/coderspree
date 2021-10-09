@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main(int argc, char **argv){
+    long long n;
+    int m,a=0;
+    cin >> n;
+    while(n!=0)
+    {
+       m=n%10;
+       a++;
+       n=n/10;
+    }
+    cout<<a;
+    
+}

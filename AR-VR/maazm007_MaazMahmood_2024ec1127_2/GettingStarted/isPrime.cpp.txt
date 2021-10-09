@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+int main(int argc, char **argv){
+int n, input, count;
+    scanf("%d", &n);
+    for (int i = 0; i < n; i++)
+    {  
+        count = 0; 
+        scanf("%d", &input);
+        for (int j = 1; j <= input; j++)
+        {
+            if ((input % j) == 0)
+            {
+                count=count+1;
+            }
+        }
+        if (count == 2)
+        {
+            printf("prime\n");
+        }
+        else
+        {
+            printf("not prime\n");
+        }
+    }
+    return 0;
+    
+}
