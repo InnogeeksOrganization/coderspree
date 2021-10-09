@@ -59,7 +59,6 @@ Coderspree
 |![SushantKumarPandey](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SushantKumarPandey|Android|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![DivyanshiNigam](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DivyanshiNigam|Android|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![Anvansh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Anvansh|Web|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
-|![AkankshaMishra](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AkankshaMishra|Web|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![Dipanjali](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Dipanjali|Web|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![SumitAgrawal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SumitAgrawal|Web|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![UtkrishtaSinha](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|UtkrishtaSinha|Web|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
