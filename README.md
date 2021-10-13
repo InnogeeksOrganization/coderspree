@@ -17,7 +17,7 @@ Minimum problems to complete | **GettingStarted**: `5` |
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1|![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|3|19|
-|2|![Ayushkumarsingh](https://avatars.githubusercontent.com/u/78909117?v=4&s=100)|Ayushkumarsingh|ML|2|16|
+|2|![Ayushkumarsingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Ayushkumarsingh|ML|2|16|
 |3|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|15|
 |4|![AbhaySinghRaghuvanshi](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AbhaySinghRaghuvanshi|Web|2|15|
 |5|![AnshulNigam](https://avatars.githubusercontent.com/u/74321084?v=4&s=100)|AnshulNigam|IOT|2|14|
