@@ -32,7 +32,6 @@ Coderspree
 |![ShitizRajvanshi](https://avatars.githubusercontent.com/u/86548099?v=4&s=100)|ShitizRajvanshi|AR-VR|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![AvishSaini](https://avatars.githubusercontent.com/u/82599778?v=4&s=100)|AvishSaini|AR-VR|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![Astha](https://avatars.githubusercontent.com/u/78898085?v=4&s=100)|Astha|AR-VR|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
-|![ayushdubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|ayushdubey|AR-VR|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![SiddharthChourasia](https://avatars.githubusercontent.com/u/78783051?v=4&s=100)|SiddharthChourasia|AR-VR|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![KaushalGangwar](https://avatars.githubusercontent.com/u/78899517?v=4&s=100)|KaushalGangwar|AR-VR|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![ANUPAMSHARMA](https://avatars.githubusercontent.com/u/91667813?v=4&s=100)|ANUPAMSHARMA|IOT|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
