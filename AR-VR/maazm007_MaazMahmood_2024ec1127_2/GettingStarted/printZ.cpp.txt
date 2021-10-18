@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+int main(int argc, char **agrc)
+{
+
+    int row, column;
+    for (row = 1; row < 6; row++)
+    {
+        for (column = 1; column < 6; column++)
+        {
+            if (row == 1 || row == 5 || column == 6 - row)
+            {
+                printf("*");
+            }
+            else
+            {
+                printf(" ");
+            }
+        }
+        printf("\n");
+    }
+}
