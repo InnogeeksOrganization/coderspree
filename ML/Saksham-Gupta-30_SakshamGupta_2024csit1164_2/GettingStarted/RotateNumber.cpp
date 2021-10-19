@@ -23,6 +23,7 @@ int main(int argc, char** argv)
     }
     if (k >= 0)
     {
+        k = k % count;
         for (i = count - k + 1; i <= count; i++)
         {
             cout << arr1[i];
@@ -32,7 +33,7 @@ int main(int argc, char** argv)
     }
     else
     {
-        k = -1 * k;
+        k = -1 * (k % count);
         for (i = k + 1; i <= count; i++)
             cout << arr1[i];
         for (i = 1; i <= k; i++)
