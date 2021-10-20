@@ -1,0 +1,23 @@
+#include <iostream>
+#include<cmath>
+using namespace std;
+void reverse(string &s , int low , int high){
+    while(low<high){
+        swap(s[low++],s[high--]);
+    }
+}
+
+int main(){
+  string s;
+  cin>>s;
+  int k;
+  cin>>k;
+  k %= s.length();
+  reverse(s,0,s.length()-k-1);
+  reverse(s,s.length()-k,s.length()-1);
+  reverse(s,0,s.size()-1);
+  cout<<s<<endl;
+    
+   
+
+}

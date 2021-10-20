@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+int main(int argc, char **argv){
+    int t,s;
+    long n;
+    cin >> t;
+   while(t>0)
+   {s=0;
+       cin>>n;
+       
+       for(long i=1;i<=n;i++)
+       {
+           if(n%i==0)
+             s++; 
+       }
+       if(s==2)
+        cout<<"prime\n";
+       else
+       if(s>2)
+       cout<<"not prime\n";
+       t--;
+   }
+    //write your code here
+    return 0;
+}
