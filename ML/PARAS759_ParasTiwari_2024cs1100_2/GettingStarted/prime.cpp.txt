@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+int main(int argc, char **argv){
+    int n,t;
+    cin >> t;
+    
+int j;
+    for(int i=0;i<t;i++)
+    {
+        cin>> n;
+        for( j=2;j<n;j++)
+        {
+            if(n%j==0)
+            {
+                cout<<"not prime\n";
+                break;
+            }
+            
+        }
+        if(j==n)
+        {
+            cout<<"prime\n";
+        }
+    }
+}
+
