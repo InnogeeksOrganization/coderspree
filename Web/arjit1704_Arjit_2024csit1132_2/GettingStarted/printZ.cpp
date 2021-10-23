@@ -1,4 +1,4 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 int height = 5;
 int width = (2 * height) - 1;
