@@ -1,0 +1,22 @@
+int i,j,n,count1=0,count2=1,count3=0;
+  scanf("%d",&n);
+  for(i=1;i<=n;i++)
+  {
+      for(j=1;j<=i;j++)
+      {
+       
+          
+          printf("%d\t",count1);
+          
+         
+          count3=count1+count2;
+       count1=count2;
+        count2=count3;
+          
+         
+      }
+      
+      printf("\n");
+      
+  }
+  return 0;
