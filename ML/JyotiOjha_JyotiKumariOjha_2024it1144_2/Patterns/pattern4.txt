@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+int main(int argc, char **argv){
+    int n,i,j;
+    int m=1;
+   
+ cin>>n;
+ for(i=n;i>0;i--)
+ {
+     for(j=i;j>0;j--)
+     {
+         cout<<"*\t";
+     }
+     cout<<endl;
+     for(j=1;j<=m;j++)
+     {
+         cout<<"\t";
+     }
+     m++;
+ }
+ return 0;
+
+
+}
+
