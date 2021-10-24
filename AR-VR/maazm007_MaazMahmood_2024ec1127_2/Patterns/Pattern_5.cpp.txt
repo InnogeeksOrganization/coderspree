@@ -1,0 +1,55 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int n;
+	cin >> n;
+	int x = ((n + 1) / 2);
+	int i = 1;
+	while (i <= x)
+	{
+		int k = 1;
+		while (k <= x - i)
+		{
+			cout << "\t";
+			++k;
+		}
+		int j = 1;
+		while (j <= (2 * i - 1))
+		{
+			cout << "*\t";
+			++j;
+		}
+		cout << endl;
+		++i;
+	}
+	//
+	i = 1;
+	n = n - x;
+	int j = 2 * n - 1;
+
+	while (i <= n)
+	{
+		int k = 1;
+		while (k <= (i))
+		{
+			if (k >= 1)
+			{
+				cout << "\t";
+			}
+			++k;
+		}
+
+		while (j > 0)
+		{
+			cout << "*\t";
+			j = j - 1;
+		}
+
+		cout << endl;
+		++i;
+		j = 2 * n + 1 - 2 * i;
+	}
+
+	return 0;
+}
