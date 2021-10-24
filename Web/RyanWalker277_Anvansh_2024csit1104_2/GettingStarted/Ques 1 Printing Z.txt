@@ -1,0 +1,30 @@
+Program to print "Z" in C
+
+
+#include <stdio.h>
+
+int
+main ()
+{
+  int i ,j , k , var = 5;
+  for (i = 0; i < 5; i++)
+    {
+      printf ("*");
+    }
+    
+    printf("\n");
+    
+    for(j = var-1 ; j>0 ; j-- ){
+        for(k = j ; k>0 ; k--){
+            printf(" ");    
+        }
+        printf("*\n");
+    }
+    
+    for (i = 0; i < 5; i++)
+    {
+      printf ("*");
+    }
+
+  return 0;
+}
