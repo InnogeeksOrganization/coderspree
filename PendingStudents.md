@@ -13,7 +13,6 @@ Coderspree
 |![AmbujKulshreshtha](https://avatars.githubusercontent.com/u/82520623?v=4&s=100)|AmbujKulshreshtha|ML|14|2|Completed `14` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![PrathamBulani](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|PrathamBulani|Android|14|Invalid Foldername|Completed `14` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![AmanKumarShrivastava](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmanKumarShrivastava|ML|13|2|Completed `13` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
-|![TejashSeth](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TejashSeth|Android|13|2|Completed `10` with minimum `5` in `GettingStarted`, Completed `3` with minimum `8` in `Patterns`, |
 |![AmoghNagar](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmoghNagar|Web|12|3|Completed `12` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![SarthakJain](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SarthakJain|Android|11|2|Completed `7` with minimum `5` in `GettingStarted`, Completed `4` with minimum `8` in `Patterns`, |
 |![AviralSrivastava](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AviralSrivastava|Web|11|2|Completed `6` with minimum `5` in `GettingStarted`, Completed `5` with minimum `8` in `Patterns`, |
