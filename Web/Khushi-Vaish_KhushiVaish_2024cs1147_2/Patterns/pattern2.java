@@ -6,14 +6,14 @@ public class Main {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
 
+        int k = n;
         for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (i + j == n + 1 || i == j) {
-                    System.out.print("\t");
-                }
+            for (int j = 1; j <= k; j++) {
+                System.out.print("*\t");
             }
-
+            k--;
             System.out.println();
         }
+
     }
 }
