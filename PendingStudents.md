@@ -17,18 +17,17 @@ Coderspree
 |![KritishShukla](https://avatars.githubusercontent.com/u/84233260?v=4&s=100)|KritishShukla|AR-VR|11|2|Completed `6` with minimum `5` in `GettingStarted`, Completed `5` with minimum `8` in `Patterns`, |
 |![SarthakJain](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SarthakJain|Android|11|2|Completed `7` with minimum `5` in `GettingStarted`, Completed `4` with minimum `8` in `Patterns`, |
 |![AviralSrivastava](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AviralSrivastava|Web|11|2|Completed `6` with minimum `5` in `GettingStarted`, Completed `5` with minimum `8` in `Patterns`, |
-|![SakshamGupta](https://avatars.githubusercontent.com/u/78898621?v=4&s=100)|SakshamGupta|ML|10|2|Completed `10` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
+|![SakshamGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SakshamGupta|ML|10|2|Completed `10` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![AnjumanHasan](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AnjumanHasan|Android|10|2|Completed `10` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![SahilBhragudev](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SahilBhragudev|Android|10|2|Completed `10` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![Anvansh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Anvansh|Web|10|2|Completed `2` with minimum `5` in `GettingStarted`, Completed `8` with minimum `8` in `Patterns`, |
 |![AnushkaYadav](https://avatars.githubusercontent.com/u/63538061?v=4&s=100)|AnushkaYadav|AR-VR|9|3|Completed `9` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![AmanDixit](https://avatars.githubusercontent.com/u/82611683?v=4&s=100)|AmanDixit|ML|9|2|Completed `9` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
-|![KopalKapoor](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|KopalKapoor|ML|9|2|Completed `9` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![SwastikNanda](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SwastikNanda|Web|9|2|Completed `9` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![KartikGupta](https://avatars.githubusercontent.com/u/57028920?v=4&s=100)|KartikGupta|AR-VR|8|3|Completed `8` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
-|![PrernaChoudhary](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|PrernaChoudhary|Web|8|2|Completed `8` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![ArchiMittal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ArchiMittal|Web|8|2|Completed `8` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![saurabhchaudhary](https://avatars.githubusercontent.com/u/54533861?v=4&s=100)|saurabhchaudhary|AR-VR|7|3|Completed `7` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
+|![VanshVerma](https://avatars.githubusercontent.com/u/92256424?v=4&s=100)|VanshVerma|AR-VR|7|2|Completed `7` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![VanshikaSrivastava](https://avatars.githubusercontent.com/u/85017987?v=4&s=100)|VanshikaSrivastava|IOT|7|2|Completed `7` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![SushantKumarPandey](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SushantKumarPandey|Android|7|2|Completed `7` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![NamanSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|NamanSingh|Android|7|2|Completed `7` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
@@ -48,12 +47,11 @@ Coderspree
 |![VanshikaSinghal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VanshikaSinghal|Web|5|3|Completed `5` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![NikitaGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|NikitaGupta|Web|5|3|Completed `5` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![Tanya](https://avatars.githubusercontent.com/u/122900?v=4&s=100)|Tanya|AR-VR|4|2|Completed `4` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
-|![SparshBansal](https://avatars.githubusercontent.com/u/78899820?v=4&s=100)|SparshBansal|ML|4|2|Completed `4` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
+|![SparshBansal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SparshBansal|ML|4|2|Completed `4` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![ShreyaShankar](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ShreyaShankar|ML|4|3|Completed `4` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![aashishraghav](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|aashishraghav|Android|4|2|Completed `4` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![arjit1704](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|arjit1704|Web|4|Invalid Foldername|Completed `4` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![PulkitSaxena](https://avatars.githubusercontent.com/u/84513589?v=4&s=100)|PulkitSaxena|AR-VR|2|2|Completed `2` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
-|![VanshVerma](https://avatars.githubusercontent.com/u/92256424?v=4&s=100)|VanshVerma|AR-VR|2|2|Completed `2` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![DeepakChaturvedi](https://avatars.githubusercontent.com/u/61619479?v=4&s=100)|DeepakChaturvedi|AR-VR|2|3|Completed `2` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![SonamSinghal](https://avatars.githubusercontent.com/u/85016555?v=4&s=100)|SonamSinghal|IOT|2|3|Completed `2` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![karanagarwal](https://avatars.githubusercontent.com/u/86533183?v=4&s=100)|karanagarwal|IOT|2|2|Completed `2` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
