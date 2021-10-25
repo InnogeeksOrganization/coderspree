@@ -40,10 +40,10 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `8` |
 |22|![SahilSaxena](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SahilSaxena|Android|2|16|
 |23|![AyushKumar](https://avatars.githubusercontent.com/u/77633249?v=4&s=100)|AyushKumar|AR-VR|2|15|
 |24|![JyotiKumariOjha](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|JyotiKumariOjha|ML|2|15|
-|25|![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|2|15|
-|26|![AnupamTiwari](https://avatars.githubusercontent.com/u/81892907?v=4&s=100)|AnupamTiwari|AR-VR|2|14|
-|27|![YashAgarwal](https://avatars.githubusercontent.com/u/59206738?v=4&s=100)|YashAgarwal|IOT|3|14|
-|28|![AdityaPratapSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AdityaPratapSingh|Android|2|14|
+|25|![AdityaPratapSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AdityaPratapSingh|Android|2|15|
+|26|![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|2|15|
+|27|![AnupamTiwari](https://avatars.githubusercontent.com/u/81892907?v=4&s=100)|AnupamTiwari|AR-VR|2|14|
+|28|![YashAgarwal](https://avatars.githubusercontent.com/u/59206738?v=4&s=100)|YashAgarwal|IOT|3|14|
 |29|![alokprajapati](https://avatars.githubusercontent.com/u/78910289?v=4&s=100)|alokprajapati|AR-VR|2|13|
 |30|![ShitizRajvanshi](https://avatars.githubusercontent.com/u/86548099?v=4&s=100)|ShitizRajvanshi|AR-VR|2|13|
 |31|![AkankshaMishra](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AkankshaMishra|Web|2|13|
