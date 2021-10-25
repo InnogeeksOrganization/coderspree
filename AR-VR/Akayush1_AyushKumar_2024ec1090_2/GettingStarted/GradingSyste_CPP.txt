@@ -1,0 +1,25 @@
+ int i;
+    scanf("%d ",&i);
+    if(i>90){
+        printf("excellent");
+
+    }
+    else if(80<i<=90)
+    {
+        printf("good");
+    }
+   
+     else if(70<i<=80)
+    {
+        printf("fair");
+    }
+     else if(60<i<=70)
+    {
+        printf("meets expectations");
+    }
+    
+        else{
+        printf("par");
+    }
+
+return 0;
