@@ -17,7 +17,7 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `8` |
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1|![Ayushkumarsingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Ayushkumarsingh|ML|2|35|
-|2|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VisheshKumarSingh|ML|2|34|
+|2|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|34|
 |3|![AnshulNigam](https://avatars.githubusercontent.com/u/74321084?v=4&s=100)|AnshulNigam|IOT|2|30|
 |4|![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|3|29|
 |5|![AnshulSinghGurjar](https://avatars.githubusercontent.com/u/90499262?v=4&s=100)|AnshulSinghGurjar|IOT|2|29|
@@ -27,10 +27,10 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `8` |
 |9|![PriyanshuRathaur](https://avatars.githubusercontent.com/u/86730388?v=4&s=100)|PriyanshuRathaur|AR-VR|2|25|
 |10|![snehaJaiswal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|snehaJaiswal|Web|2|22|
 |11|![KhushiVaish](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|KhushiVaish|Web|2|21|
-|12|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|20|
-|13|![RiyaSrivastava](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|RiyaSrivastava|ML|2|20|
-|14|![TejashSeth](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TejashSeth|Android|2|20|
-|15|![ayushdubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|ayushdubey|AR-VR|2|19|
+|12|![ayushdubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|ayushdubey|AR-VR|2|20|
+|13|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|20|
+|14|![RiyaSrivastava](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|RiyaSrivastava|ML|2|20|
+|15|![TejashSeth](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TejashSeth|Android|2|20|
 |16|![VidhiSinha](https://avatars.githubusercontent.com/u/83163944?v=4&s=100)|VidhiSinha|ML|2|19|
 |17|![PrernaChoudhary](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|PrernaChoudhary|Web|2|18|
 |18|![ShrutiSingh](https://avatars.githubusercontent.com/u/82566938?v=4&s=100)|ShrutiSingh|ML|2|17|
