@@ -8,4 +8,5 @@ while i<a:
             print(" ",end = "")
         j = j+1
     print("\n",end = "")
-    i = i+1  
+    i = i+1 
+    
