@@ -36,10 +36,10 @@ Minimum problems to complete | **GettingStarted**: `0` |
 |18|![VanshikaSinghal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VanshikaSinghal|Web|3|5|
 |19|![PriyanshuRathaur](https://avatars.githubusercontent.com/u/86730388?v=4&s=100)|PriyanshuRathaur|AR-VR|2|4|
 |20|![SparshBansal](https://avatars.githubusercontent.com/u/78899820?v=4&s=100)|SparshBansal|ML|2|4|
-|21|![DeveshChandra](https://avatars.githubusercontent.com/u/82612473?v=4&s=100)|DeveshChandra|ML|2|3|
-|22|![VidhiSinha](https://avatars.githubusercontent.com/u/83163944?v=4&s=100)|VidhiSinha|ML|2|3|
-|23|![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|2|3|
-|24|![MaazMahmood](https://avatars.githubusercontent.com/u/83294849?v=4&s=100)|MaazMahmood|AR-VR|2|2|
+|21|![MaazMahmood](https://avatars.githubusercontent.com/u/83294849?v=4&s=100)|MaazMahmood|AR-VR|2|3|
+|22|![DeveshChandra](https://avatars.githubusercontent.com/u/82612473?v=4&s=100)|DeveshChandra|ML|2|3|
+|23|![VidhiSinha](https://avatars.githubusercontent.com/u/83163944?v=4&s=100)|VidhiSinha|ML|2|3|
+|24|![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|2|3|
 |25|![DeepakChaturvedi](https://avatars.githubusercontent.com/u/61619479?v=4&s=100)|DeepakChaturvedi|AR-VR|3|2|
 |26|![ShubhankDwivedi](https://avatars.githubusercontent.com/u/81324099?v=4&s=100)|ShubhankDwivedi|AR-VR|2ndYear|2|
 |27|![YashAgarwal](https://avatars.githubusercontent.com/u/59206738?v=4&s=100)|YashAgarwal|IOT|3|2|
