@@ -13,8 +13,7 @@ public class Main {
                 System.out.print(step +"	");
                 step++;
             }
-            System.out.println();
-        }
+            System.out.println(); }
 
     }
 }
