@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int AnyBaseToDec(int n, int rem, int ans, int p, int b)
+{
+    while (n > 0)
+    {
+        rem = n % 10;
+        n = n / 10;
+        ans = ans + p * rem;
+        p = p * b;
+    }
+    printf("%d", ans);
+}
+int main()
+{
+    int n, b, rem, ans = 0, p = 1;
+    printf("Enter the  umber you want to convert : ");
+    scanf("%d", &n);
+    printf("Enter the base of a number : ");
+    scanf("%d", &b);
+    AnyBaseToDec(n, rem, ans, p, b);
+    return 0;
+}
