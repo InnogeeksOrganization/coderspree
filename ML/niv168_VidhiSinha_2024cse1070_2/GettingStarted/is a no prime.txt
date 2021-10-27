@@ -1,0 +1,32 @@
+#include <iostream>
+using namespace std;
+int main(int argc, char **argv){
+    int t;
+    cin >> t;
+    int n,c,i,j;
+    
+    for(i=1;i<=t;i++)
+    {
+        cin>>n;
+        c=0;
+        for(j=1;j<=n;j++)
+        {
+            
+            if(n%j==0)
+            {
+                c=c+1;
+            }
+          
+        }
+        if(c==2)
+        {
+            cout<<"prime\n";
+        }
+        else if(c!=2)
+        {
+            cout<<"not prime\n";
+        }
+    }
+    
+
+}
