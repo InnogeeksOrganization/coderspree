@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int main()
+{
+    int a[100],n,t,i,j,x,k=0;
+    printf("Enter the no. of elements:");
+    scanf("%d",&t);
+    printf("Enter the elements:\n");
+    for(i=0;i<t;i++){
+        scanf("%d",&a[i]);
+    }
+    
+    for(j=0;j<t;j++){
+        x=a[j]/2;
+    
+        for(i=2;i<=x;i++){
+            if(a[j]%i==0){
+                printf("not prime\n");
+                k=1;
+                break;
+            }
+        }
+        if(k==0){
+            printf("prime\n");
+        }
+        
+    }
+
+    return 0;
+}
