@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main(int argc, char **argv){
+
+    int i,j,n;
+    scanf("%d",&n);
+    for(i=1;i<=n;i++)
+    {
+        for(j=n;j>=i;j--)
+        {
+            printf("*\t");
+        }
+        printf("\n");
+    }
+    return 0;
+
+
+}

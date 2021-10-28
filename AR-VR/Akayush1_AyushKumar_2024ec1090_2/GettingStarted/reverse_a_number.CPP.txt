@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main(int argc, char **argv){
+
+    int n , i,r;
+    scanf("%d",&n);
+    for(i=0;i<n;i++)
+    {
+        r=n%10;
+        n=n/10;
+        printf("%d\n",r);
+        if((n<10)&& (n!=0))
+        {
+            printf("%d",n);
+        }
+        
+
+    }
+    return 0;
+
+}
