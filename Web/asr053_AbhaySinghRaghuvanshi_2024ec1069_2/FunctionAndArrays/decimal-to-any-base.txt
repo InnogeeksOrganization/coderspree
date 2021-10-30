@@ -1,0 +1,19 @@
+#include<bits/stdc++.h>
+using namespace std;
+string DecToAny(int n, int b) {
+    string s = "";
+  while(n>0){
+      s += (n%b + '0');
+      n /= b;
+  }
+  reverse(s.begin(),s.end());
+  return s;
+}
+int main() {
+  int n;
+  int b;
+  cin >> n;
+  cin >> b;
+ string res = DecToAny(n, b);
+  cout << res<< endl;
+}
