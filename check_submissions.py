@@ -7,7 +7,7 @@ import requests
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {"GettingStarted": 5, "Patterns": 8}
+submission_architecture = {"GettingStarted": 5, "Patterns": 6, "FunctionAndArrays": 5}
 
 domains = ["AR-VR", "IOT", "ML", "Android", "Web"]
 
