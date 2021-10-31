@@ -1,0 +1,22 @@
+#include<iostream>
+using namespace std;
+int DecToAny(int n, int b) {
+    int rem,res=0,m=1;
+    scanf("%d %d",&n,&b);
+    while(n!=0)
+    {
+    rem=n%10;
+    n=n/10;
+    res=res +rem*m;
+    m=m*b;
+    }
+    return res;
+    
+//write your code here
+}
+int main() {
+  int n;
+  int b;
+  int res = DecToAny(n, b);
+  printf("%d",res);
+}
