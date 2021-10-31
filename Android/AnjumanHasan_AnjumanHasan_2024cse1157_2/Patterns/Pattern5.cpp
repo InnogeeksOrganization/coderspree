@@ -4,17 +4,47 @@ using namespace std;
 int main(){
     int n,i,j;
     cin >> n;
-   for ( i = 0; i < n; i++)
+    int spaces=n-1,stars=1;
+   for ( i = 0; i < n/2; i++)
    {
-        for ( j = 0; j < n; j++)
+      for(j=1;j<spaces;j++)
       {
-         
-         if(j==2)
-         {
-             cout << "*\t";
-         }
+         cout << " " ;
+        
+      }
+        for ( j = 1; j <= stars; j++)
+      {
+
+           cout << "*\t";
            
       }
+      
+      spaces=spaces-1;
+      stars+=2;
+      cout << endl;
+
    }
+   for ( i = (n/2); i <= n; i++)
+   {
+       for ( j = 1; j <= stars; j++)
+      {
+
+           cout << "*\t";
+           
+      }
+      for(j=1;j<spaces;j++)
+      {
+         cout << " " ;
+        
+      }
+       
+      
+      spaces=spaces+1;
+      stars-=2;
+      
+      cout << endl;
+
+   }
+   
    return 0;
 }
