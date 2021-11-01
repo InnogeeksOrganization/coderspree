@@ -1,0 +1,25 @@
+#include <stdio.h>
+void digiFrequency(int n, int srch)
+{
+    int count = 0;
+    while (n != 0)
+    {
+        int c = n % 10;
+        if (c == srch)
+        {
+            count++;
+        }
+        n = n / 10;
+    }
+    printf("%d", count);
+}
+int main()
+{
+    int n, srch;
+    //printf("Enter the Number : ");
+    scanf("%d", &n);
+    //printf("Enter the Number you want to search : ");
+    scanf("%d", &srch);
+    digiFrequency(n, srch);
+    return 0;
+}
