@@ -4,36 +4,21 @@
 
 using namespace std;
 
-void floodfill(vector<vector<int>> maze, int sr, int sc, string asf)
+void floodfill(vector<vector<int>> &maze, int sr, int sc, string asf)
 {
-    int n = maze.size();
-    int m = maze[0].size();
-    if (sr == n && sc == m)
+    if (sr < 0 || sc < 0 || sr == maze.size() || sc == maze[0].size() || maze[sr][sc] == 1)
+        return;
+    if (sr == maze.size() - 1 && sc == maze[0].size() - 1)
     {
-        if (asf != "")
-            cout << asf << endl;
+        cout << asf << endl;
         return;
     }
-    if (((sr - 1) >= 0) && maze[sr - 1][sc] == 0)
-    {
-        maze[sr - 1][sc] = -1;
-        floodfill(maze, sr - 1, sc, asf + "t");
-    }
-    if (((sc - 1) >= 0) && maze[sr][sc - 1] == 0)
-    {
-        maze[sr][sc - 1] = -1;
-        floodfill(maze, sr, sc - 1, asf + "l");
-    }
-    if (((sr + 1) < n) && maze[sr + 1][sc] == 0)
-    {
-        maze[sr + 1][sc] = -1;
-        floodfill(maze, sr + 1, sc, asf + "d");
-    }
-    if (((sc + 1) >= 0) && maze[sr][sc + 1] == 0)
-    {
-        maze[sr][sc + 1] = -1;
-        floodfill(maze, sr, sc + 1, asf + "r");
-    }
+    maze[sr][sc] = 1;
+    floodfill(maze, sr - 1, sc, asf + "t");
+    floodfill(maze, sr, sc - 1, asf + "l");
+    floodfill(maze, sr + 1, sc, asf + "d");
+    floodfill(maze, sr, sc + 1, asf + "r");
+    maze[sr][sc] = 0;
 }
 
 int main()
