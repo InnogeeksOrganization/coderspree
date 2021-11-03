@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <math.h>
+
+int main(){
+    int n,rem,num=0,ind=1;
+    //printf("Enter the number\n");
+    scanf("%d",&n);
+    while(n>0)
+    {
+        rem = n%10;
+        n = n/10;
+        num += ind*pow(10,rem-1);
+        ind++;
+    }
+    printf("%d",num);   
+}
