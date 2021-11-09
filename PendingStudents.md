@@ -7,9 +7,9 @@ Coderspree
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|34|2|Completed `15` with minimum `5` in `GettingStarted`, Completed `19` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
+|![DeveshChandra](https://avatars.githubusercontent.com/u/82612473?v=4&s=100)|DeveshChandra|ML|32|2|Completed `12` with minimum `5` in `GettingStarted`, Completed `17` with minimum `6` in `Patterns`, Completed `3` with minimum `5` in `FunctionAndArrays`, |
 |![PriyanshuRathaur](https://avatars.githubusercontent.com/u/86730388?v=4&s=100)|PriyanshuRathaur|AR-VR|29|2|Completed `13` with minimum `5` in `GettingStarted`, Completed `12` with minimum `6` in `Patterns`, Completed `4` with minimum `5` in `FunctionAndArrays`, |
 |![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|29|3|Completed `19` with minimum `5` in `GettingStarted`, Completed `10` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
-|![DeveshChandra](https://avatars.githubusercontent.com/u/82612473?v=4&s=100)|DeveshChandra|ML|29|2|Completed `12` with minimum `5` in `GettingStarted`, Completed `17` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![ShashwatKapoor](https://avatars.githubusercontent.com/u/74201117?v=4&s=100)|ShashwatKapoor|IOT|27|3|Completed `12` with minimum `5` in `GettingStarted`, Completed `15` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![SaksheeVarshney](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SaksheeVarshney|Web|27|3|Completed `15` with minimum `5` in `GettingStarted`, Completed `12` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![AmbujKulshreshtha](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AmbujKulshreshtha|ML|25|2|Completed `15` with minimum `5` in `GettingStarted`, Completed `10` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
