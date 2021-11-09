@@ -1,0 +1,28 @@
+import java.util.Scanner;
+public class Main{
+  public static void main(String[] args){
+  Scanner sc=new Scanner(System.in);
+  int t=sc.nextInt();
+  while(t>0)
+  {
+  int n=sc.nextInt();
+  int i=n/2;
+  int K=0;
+  while (i>=2)
+  {
+  if (n%i == 0)
+  {
+  K=K+1;
+  break;
+  }
+  else
+  i=i-1;
+  }
+  if (K==1)
+  System.out.println("not prime");
+  else
+  System.out.println("prime");
+  }
+  t=t-1;
+  }
+}
