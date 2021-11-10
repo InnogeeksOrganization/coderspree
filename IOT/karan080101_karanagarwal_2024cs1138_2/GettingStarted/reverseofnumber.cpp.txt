@@ -1,0 +1,18 @@
+#include <iostream>  
+using namespace std;  
+int main()  
+{  
+int n, reverse=0, rem;    
+   
+cin>>n;    
+  while(n!=0)    
+  {    
+     rem=n%10;      
+       
+     n/=10; 
+     cout<<rem<<endl;
+  }    
+ 
+ 
+return 0;  
+} 
