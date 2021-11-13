@@ -7,7 +7,7 @@ Coderspree
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|34|2|Completed `15` with minimum `5` in `GettingStarted`, Completed `19` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
-|![DeveshChandra](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DeveshChandra|ML|32|2|Completed `12` with minimum `5` in `GettingStarted`, Completed `17` with minimum `6` in `Patterns`, Completed `3` with minimum `5` in `FunctionAndArrays`, |
+|![DeveshChandra](https://avatars.githubusercontent.com/u/82612473?v=4&s=100)|DeveshChandra|ML|32|2|Completed `12` with minimum `5` in `GettingStarted`, Completed `17` with minimum `6` in `Patterns`, Completed `3` with minimum `5` in `FunctionAndArrays`, |
 |![ShatanshuAgarwal](https://avatars.githubusercontent.com/u/63258511?v=4&s=100)|ShatanshuAgarwal|AR-VR|29|3|Completed `19` with minimum `5` in `GettingStarted`, Completed `10` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![ShashwatKapoor](https://avatars.githubusercontent.com/u/74201117?v=4&s=100)|ShashwatKapoor|IOT|27|3|Completed `12` with minimum `5` in `GettingStarted`, Completed `15` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![SaksheeVarshney](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SaksheeVarshney|Web|27|3|Completed `15` with minimum `5` in `GettingStarted`, Completed `12` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
@@ -25,7 +25,6 @@ Coderspree
 |![KopalKapoor](https://avatars.githubusercontent.com/u/82762079?v=4&s=100)|KopalKapoor|ML|17|2|Completed `9` with minimum `5` in `GettingStarted`, Completed `8` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![AdityaPratapSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AdityaPratapSingh|Android|17|2|Completed `6` with minimum `5` in `GettingStarted`, Completed `9` with minimum `6` in `Patterns`, Completed `2` with minimum `5` in `FunctionAndArrays`, |
 |![SrishtiChaurasia](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SrishtiChaurasia|Android|17|2|Completed `9` with minimum `5` in `GettingStarted`, Completed `8` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
-|![MadhaviSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|MadhaviSingh|Web|17|2|Completed `9` with minimum `5` in `GettingStarted`, Completed `8` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![KritishShukla](https://avatars.githubusercontent.com/u/84233260?v=4&s=100)|KritishShukla|AR-VR|16|2|Completed `6` with minimum `5` in `GettingStarted`, Completed `5` with minimum `6` in `Patterns`, Completed `5` with minimum `5` in `FunctionAndArrays`, |
 |![SahilSaxena](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SahilSaxena|Android|16|2|Completed `6` with minimum `5` in `GettingStarted`, Completed `10` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![arjit1704](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|arjit1704|Web|16|Invalid Foldername|Completed `6` with minimum `5` in `GettingStarted`, Completed `10` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
@@ -97,7 +96,7 @@ Coderspree
 |![MukulDixit](https://avatars.githubusercontent.com/u/55882740?v=4&s=100)|MukulDixit|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![ashutosh](https://avatars.githubusercontent.com/u/60190101?v=4&s=100)|ashutosh|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![AsthaGoel](https://avatars.githubusercontent.com/u/62610706?v=4&s=100)|AsthaGoel|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
-|![VanshikaNamdev](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VanshikaNamdev|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
+|![VanshikaNamdev](https://avatars.githubusercontent.com/u/64363094?v=4&s=100)|VanshikaNamdev|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![VaishnaviBajpai](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|VaishnaviBajpai|ML|1|2|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![AnkitYadav](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AnkitYadav|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![YashashviSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|YashashviSingh|ML|1|3|Completed `1` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
