@@ -28,7 +28,9 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 |10|![RiyaSrivastava](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|RiyaSrivastava|ML|2|26|
 |11|![MaazMahmood](https://avatars.githubusercontent.com/u/83294849?v=4&s=100)|MaazMahmood|AR-VR|2|25|
 |12|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|25|
-|13|![AayushMohanSaxena](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AayushMohanSaxena|Web|2|23|
-|14|![AyushKumar](https://avatars.githubusercontent.com/u/77633249?v=4&s=100)|AyushKumar|AR-VR|2|20|
-|15|![karanagarwal](https://avatars.githubusercontent.com/u/86533183?v=4&s=100)|karanagarwal|IOT|2|20|
-|16|![SarthakJain](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SarthakJain|Android|2|19|
+|13|![AkankshaSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AkankshaSingh|Web|2|24|
+|14|![AkshatSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AkshatSingh|Web|2|24|
+|15|![AayushMohanSaxena](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AayushMohanSaxena|Web|2|23|
+|16|![AyushKumar](https://avatars.githubusercontent.com/u/77633249?v=4&s=100)|AyushKumar|AR-VR|2|20|
+|17|![karanagarwal](https://avatars.githubusercontent.com/u/86533183?v=4&s=100)|karanagarwal|IOT|2|20|
+|18|![SarthakJain](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SarthakJain|Android|2|19|
