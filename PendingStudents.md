@@ -113,5 +113,6 @@ Coderspree
 |![Invalid Foldername](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Invalid Foldername|Android|0|Invalid Foldername|`GettingStarted` Folder not found, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![Surajshukla](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Surajshukla|Android|0|Invalid Foldername|`GettingStarted` Folder not found, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![YashikaAgarwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|YashikaAgarwal|Web|0|2|`GettingStarted` Folder not found, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
+|![ayushitiwari](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ayushitiwari|Web|0|2|`GettingStarted` Folder not found, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![DurgeshAgrhari](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DurgeshAgrhari|Web|0|3|`GettingStarted` Folder not found, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![KartikMehta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|KartikMehta|Web|0|2|`GettingStarted` Folder not found, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
