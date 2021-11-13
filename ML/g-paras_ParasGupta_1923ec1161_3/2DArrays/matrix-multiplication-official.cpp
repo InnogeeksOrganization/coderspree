@@ -22,6 +22,11 @@ int main() {
         }
     }
     
+    if (m1 != n2){
+        cout << "Invalid input" << endl;
+        return 0;
+    }
+    
     int ans[n1][m2] = {0};
 
     for (int i=0; i<n1; i++) {
