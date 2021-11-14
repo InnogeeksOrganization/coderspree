@@ -1,0 +1,35 @@
+import java.util.*;
+
+public class Main{
+    public static boolean isPrime(int num)
+    {
+        if(num==1)
+        {
+            return false;
+        }
+        else
+        {
+             for(int x=2;x*x<=num;x++)
+             {
+                if(num%x==0)
+                {
+                   return false;
+                }
+            }
+            return true;
+        }
+    }
+    public static void main(String[] args) 
+    {
+        Scanner sc=new Scanner(System.in);
+        int n1=sc.nextInt();
+        int n2=sc.nextInt();
+        for(int x=n1;x<=n2;x++)
+        {
+            if(isPrime(x)==true)
+            {
+                System.out.println(x);
+               }
+        }
+    }
+}

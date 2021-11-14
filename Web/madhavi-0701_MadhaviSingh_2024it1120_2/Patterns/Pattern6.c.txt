@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int main()
+{
+    int n,i,j,k,l;
+    printf("Enter n:");
+    scanf("%d",&n);
+    k=(n/2)+1;
+    l=1;
+    for(i=1;i<=n;i++){
+        for(j=1;j<=k;j++){
+            printf("* ");
+        }
+        for(j=1;j<=l;j++){
+            printf("  ");
+        }
+        for(j=1;j<=k;j++){
+            printf("* ");
+        }
+        if(i<=n/2){
+            k--;
+            l+=2;
+        }
+        else{
+            k++;
+            l-=2;
+        }
+        printf("\n");
+    }
+    
+
+    return 0;
+}
