@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int digFreq(string s , int d) {
+  //write your code here
+  int count = 0 ;
+  for (int i=0;i<s.size();i++)if(s[i]-'0'==d)count++;
+  return count ;
+}
+int main() {
+  string s; cin>>s;
+  int d ; cin>>d;
+  int res = digFreq(s, d);
+  cout << res << endl;
+}

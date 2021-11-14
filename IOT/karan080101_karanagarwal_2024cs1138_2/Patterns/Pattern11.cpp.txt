@@ -1,0 +1,39 @@
+#include <iostream>
+using namespace std;
+ 
+
+void pypart(int n)
+{
+    int i = 1, j = 0;
+ 
+    
+  
+    int num = 1;
+    while (i <= n) {
+        while (j <= i - 1) {
+ 
+            
+            cout << num << " ";
+           
+           
+            num++;
+            j++;
+        }
+        j = 0;
+        i++;
+       
+       
+        cout << endl;
+    }
+}
+ 
+
+int main()
+{
+    int n;
+    cin>>n;
+   
+     
+    pypart(n);
+    return 0;
+}
