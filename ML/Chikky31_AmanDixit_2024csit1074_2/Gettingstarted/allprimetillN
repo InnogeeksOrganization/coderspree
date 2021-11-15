@@ -1,0 +1,29 @@
+import java.util.*;
+import java.io.*;
+
+public class Main{
+    public static void main(String[] args) throws IOException {
+        Scanner sc=new Scanner(System.in);
+        int high,low,c=0,i,j;
+        low=sc.nextInt();
+             high=sc.nextInt();
+     
+        // high=Integer.parseInt(ab.readLine());
+        for(j=low;j<=high;j++)
+        {
+            c=0;
+            for(i=2;i*i<=j;i++)
+            {
+                if(j%i==0)
+                {
+                c++;
+                break;
+            }}
+        
+        if(c==0)
+        {
+            System.out.println(j);
+        }
+    }
+    }
+    }

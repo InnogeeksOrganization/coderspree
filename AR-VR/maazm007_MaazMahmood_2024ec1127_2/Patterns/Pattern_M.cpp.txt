@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n, i, j;
+    // printf("Enter the Number of rows : ");
+    scanf("%d", &n);
+    for (i = 1; i <= n; i++)
+    {
+        for (j = 1; j <= n; j++)
+        {
+            if (j == 1 || j == n || (i <= ((n / 2) + 1) && (j == i)) || (i + j == (n + 1) && i < ((n / 2) + 1)))
+            {
+                printf("*\t");
+            }
+            else
+            {
+                printf("\t");
+            }
+        }
+        printf("\n");
+    }
+}
