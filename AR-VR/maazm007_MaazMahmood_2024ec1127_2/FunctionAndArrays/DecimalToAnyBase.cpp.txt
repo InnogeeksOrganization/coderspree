@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+void convertToBase(int n, int b, int multiplier, int ans, int rem)
+{
+	while (n != 0)
+	{
+		rem = n % b;
+		n = n / b;
+		ans = ans + rem * multiplier;
+		multiplier = multiplier * 10;
+	}
+	printf("%d", ans);
+}
+int main()
+{
+	int n, b, multiplier = 1, ans = 0, rem;
+	// printf("Enter the number you want to convert : ");
+	scanf("%d", &n);
+	// printf("Enter the Base in which you want to conevrt : ");
+	scanf("%d", &b);
+	convertToBase(n, b, multiplier, ans, rem);
+}
