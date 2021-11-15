@@ -22,7 +22,7 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 |4|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|43|
 |5|![ayushdubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|ayushdubey|AR-VR|2|39|
 |6|![AnshulSinghGurjar](https://avatars.githubusercontent.com/u/90499262?v=4&s=100)|AnshulSinghGurjar|IOT|2|35|
-|7|![DeveshChandra](https://avatars.githubusercontent.com/u/82612473?v=4&s=100)|DeveshChandra|ML|2|34|
+|7|![DeveshChandra](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DeveshChandra|ML|2|34|
 |8|![PriyanshuRathaur](https://avatars.githubusercontent.com/u/86730388?v=4&s=100)|PriyanshuRathaur|AR-VR|2|33|
 |9|![SakshamGupta](https://avatars.githubusercontent.com/u/78898621?v=4&s=100)|SakshamGupta|ML|2|32|
 |10|![TejashSeth](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TejashSeth|Android|2|28|
