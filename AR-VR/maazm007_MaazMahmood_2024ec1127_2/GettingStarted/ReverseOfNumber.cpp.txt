@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main(int argc, char **argv){
+int n,num;
+    //printf("Enter any Number : ");
+    scanf("%d",&n);
+    while(n != 0)
+    {
+        num = n % 10;
+        printf("%d\n",num);
+        n = n / 10;        
+    }
+    
+}
