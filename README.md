@@ -18,8 +18,8 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1|![AnshulNigam](https://avatars.githubusercontent.com/u/74321084?v=4&s=100)|AnshulNigam|IOT|2|50|
 |2|![Ayushkumarsingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Ayushkumarsingh|ML|2|45|
-|3|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|43|
-|4|![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|2|43|
+|3|![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|2|45|
+|4|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|43|
 |5|![ayushdubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|ayushdubey|AR-VR|2|39|
 |6|![AnshulSinghGurjar](https://avatars.githubusercontent.com/u/90499262?v=4&s=100)|AnshulSinghGurjar|IOT|2|35|
 |7|![DeveshChandra](https://avatars.githubusercontent.com/u/82612473?v=4&s=100)|DeveshChandra|ML|2|34|
