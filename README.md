@@ -36,8 +36,12 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 |18|![AayushMohanSaxena](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AayushMohanSaxena|Web|2|23|
 |19|![Astha](https://avatars.githubusercontent.com/u/78898085?v=4&s=100)|Astha|AR-VR|2|22|
 |20|![MadhaviSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|MadhaviSingh|Web|2|22|
-|21|![AyushKumar](https://avatars.githubusercontent.com/u/77633249?v=4&s=100)|AyushKumar|AR-VR|2|20|
-|22|![karanagarwal](https://avatars.githubusercontent.com/u/86533183?v=4&s=100)|karanagarwal|IOT|2|20|
-|23|![AdityaPratapSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AdityaPratapSingh|Android|2|20|
-|24|![SarthakJain](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SarthakJain|Android|2|19|
-|25|![KhushiVaish](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|KhushiVaish|Web|2|18|
+|21|![NikitaJain](https://avatars.githubusercontent.com/u/91686453?v=4&s=100)|NikitaJain|IOT|2|21|
+|22|![AyushKumar](https://avatars.githubusercontent.com/u/77633249?v=4&s=100)|AyushKumar|AR-VR|2|20|
+|23|![karanagarwal](https://avatars.githubusercontent.com/u/86533183?v=4&s=100)|karanagarwal|IOT|2|20|
+|24|![AdityaPratapSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AdityaPratapSingh|Android|2|20|
+|25|![NamanSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|NamanSingh|Android|2|20|
+|26|![SoumenPaul](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SoumenPaul|Android|2|20|
+|27|![SarthakJain](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SarthakJain|Android|2|19|
+|28|![AviralSrivastava](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AviralSrivastava|Web|2|19|
+|29|![KhushiVaish](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|KhushiVaish|Web|2|18|
