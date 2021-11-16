@@ -9,45 +9,12 @@ Coderspree
 Please visit the [Guide](./Guide/README.md)  
 
 
-Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **FunctionAndArrays**: `5` |   
+Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **FunctionAndArrays**: `5` | **2DArrays**: 
+`5` |   
 
 # Stats
   
 
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|1|![AnshulNigam](https://avatars.githubusercontent.com/u/74321084?v=4&s=100)|AnshulNigam|IOT|2|50|
-|2|![Ayushkumarsingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|Ayushkumarsingh|ML|2|45|
-|3|![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|2|45|
-|4|![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|2|43|
-|5|![ayushdubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|ayushdubey|AR-VR|2|39|
-|6|![AnshulSinghGurjar](https://avatars.githubusercontent.com/u/90499262?v=4&s=100)|AnshulSinghGurjar|IOT|2|35|
-|7|![DeveshChandra](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|DeveshChandra|ML|2|34|
-|8|![PriyanshuRathaur](https://avatars.githubusercontent.com/u/86730388?v=4&s=100)|PriyanshuRathaur|AR-VR|2|33|
-|9|![SaksheeVarshney](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SaksheeVarshney|Web|3|33|
-|10|![SakshamGupta](https://avatars.githubusercontent.com/u/78898621?v=4&s=100)|SakshamGupta|ML|2|32|
-|11|![AnjumanHasan](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AnjumanHasan|Android|2|31|
-|12|![TejashSeth](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TejashSeth|Android|2|28|
-|13|![AbhaySinghRaghuvanshi](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AbhaySinghRaghuvanshi|Web|2|28|
-|14|![RiyaSrivastava](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|RiyaSrivastava|ML|2|26|
-|15|![MaazMahmood](https://avatars.githubusercontent.com/u/83294849?v=4&s=100)|MaazMahmood|AR-VR|2|25|
-|16|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|25|
-|17|![AkankshaSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AkankshaSingh|Web|2|24|
-|18|![AkshatSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AkshatSingh|Web|2|24|
-|19|![Tanya](https://avatars.githubusercontent.com/u/122900?v=4&s=100)|Tanya|AR-VR|2|23|
-|20|![PrernaChoudhary](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|PrernaChoudhary|Web|2|23|
-|21|![AayushMohanSaxena](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AayushMohanSaxena|Web|2|23|
-|22|![Astha](https://avatars.githubusercontent.com/u/78898085?v=4&s=100)|Astha|AR-VR|2|22|
-|23|![SrishtiChaurasia](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SrishtiChaurasia|Android|2|22|
-|24|![MadhaviSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|MadhaviSingh|Web|2|22|
-|25|![NikitaJain](https://avatars.githubusercontent.com/u/91686453?v=4&s=100)|NikitaJain|IOT|2|21|
-|26|![AyushKumar](https://avatars.githubusercontent.com/u/77633249?v=4&s=100)|AyushKumar|AR-VR|2|20|
-|27|![karanagarwal](https://avatars.githubusercontent.com/u/86533183?v=4&s=100)|karanagarwal|IOT|2|20|
-|28|![AdityaPratapSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AdityaPratapSingh|Android|2|20|
-|29|![NamanSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|NamanSingh|Android|2|20|
-|30|![SoumenPaul](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SoumenPaul|Android|2|20|
-|31|![SarthakJain](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|SarthakJain|Android|2|19|
-|32|![AviralSrivastava](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AviralSrivastava|Web|2|19|
-|33|![ShitizRajvanshi](https://avatars.githubusercontent.com/u/86548099?v=4&s=100)|ShitizRajvanshi|AR-VR|2|18|
-|34|![alokprajapati](https://avatars.githubusercontent.com/u/78910289?v=4&s=100)|alokprajapati|AR-VR|2|18|
-|35|![KhushiVaish](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|KhushiVaish|Web|2|18|
+|1|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|31|
