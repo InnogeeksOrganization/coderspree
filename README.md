@@ -17,4 +17,4 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|1|![ParasGupta](https://avatars.githubusercontent.com/u/60445527?v=4&s=100)|ParasGupta|ML|3|31|
+|1|![ParasGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ParasGupta|ML|3|31|
