@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main(int argc, char **argv){
+int n,rem,num,power = 1,digit;
+	//printf("Enter any Number : ");
+	scanf("%d",&n);
+	num = n;
+	while(num >= 10)
+	{
+		num = num / 10;
+		power = power * 10;
+	}
+	num = n;
+	while(power != 0)
+	{
+		digit = num / power;
+		printf("%d\n",digit);
+		num = num % power;
+		power = power / 10;
+	}
+    
+}
