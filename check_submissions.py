@@ -7,7 +7,7 @@ import requests
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {"GettingStarted": 5, "Patterns": 6, "FunctionAndArrays": 5}
+submission_architecture = {"GettingStarted": 5, "Patterns": 6, "FunctionAndArrays": 5, "2DArrays": 5}
 
 domains = ["AR-VR", "IOT", "ML", "Android", "Web"]
 
@@ -198,15 +198,3 @@ completed_student_list.sort(key=lambda x: x.solved, reverse=True)
 
 write_to_readme("README.md", completed_student_list)
 write_to_pendingReadme("PendingStudents.md", incompleted_student_list)
-
-
-print("============================COMPLETE STUDENTS LOGS============================")
-for student in completed_student_list:
-    print(student)
-
-# print to github actions
-print(
-    "============================INCOMPLETE STUDENTS LOGS============================"
-)
-for student in incompleted_student_list:
-    print(student)
