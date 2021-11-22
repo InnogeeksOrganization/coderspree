@@ -6,7 +6,6 @@ Coderspree
 
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|47|2|Completed `14` with minimum `5` in `GettingStarted`, Completed `21` with minimum `6` in `Patterns`, Completed `10` with minimum `5` in `FunctionAndArrays`, Completed `2` with minimum `5` in `2DArrays`, |
 |![Ayushkumarsingh](https://avatars.githubusercontent.com/u/78909117?v=4&s=100)|Ayushkumarsingh|ML|45|2|Completed `18` with minimum `5` in `GettingStarted`, Completed `17` with minimum `6` in `Patterns`, Completed `10` with minimum `5` in `FunctionAndArrays`, `2DArrays` Folder not found, |
 |![VisheshKumarSingh](https://avatars.githubusercontent.com/u/47525494?v=4&s=100)|VisheshKumarSingh|ML|43|2|Completed `15` with minimum `5` in `GettingStarted`, Completed `19` with minimum `6` in `Patterns`, Completed `9` with minimum `5` in `FunctionAndArrays`, `2DArrays` Folder not found, |
 |![ayushdubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|ayushdubey|AR-VR|42|2|Completed `5` with minimum `5` in `GettingStarted`, Completed `17` with minimum `6` in `Patterns`, Completed `17` with minimum `5` in `FunctionAndArrays`, Completed `3` with minimum `5` in `2DArrays`, |
