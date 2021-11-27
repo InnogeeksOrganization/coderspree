@@ -17,7 +17,9 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|1|![AnshulNigam](https://avatars.githubusercontent.com/u/74321084?v=4&s=100)|AnshulNigam|IOT|2|56|
+|1|![AnshulNigam](https://avatars.githubusercontent.com/u/74321084?v=4&s=100)|AnshulNigam|IOT|2|58|
 |2|![TanikaGulati](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|TanikaGulati|Android|2|51|
-|3|![ParasGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ParasGupta|ML|3|31|
-|4|![AayushMohanSaxena](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AayushMohanSaxena|Web|2|28|
+|3|![ayushdubey](https://avatars.githubusercontent.com/u/33064931?v=4&s=100)|ayushdubey|AR-VR|2|49|
+|4|![ParasGupta](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|ParasGupta|ML|3|31|
+|5|![AdityaPratapSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AdityaPratapSingh|Android|2|29|
+|6|![AayushMohanSaxena](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|AayushMohanSaxena|Web|2|28|
