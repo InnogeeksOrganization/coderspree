@@ -1,47 +1,40 @@
 #include<iostream>
 using namespace std;
 
-int main() {
-  int r1, r2, c1, c2;
-  int i, j, k;
-  cin >> r1 >> c1;
-  int ar1[r1][c1];
-  for (i = 0; i < r1; i++) {
-    for (j = 0; j < c1; j++) {
-      cin >> ar1[i][j];
-    }
-  }
-
-  cin >> r2 >> c2;
-  int ar2[r2][c2];
-  for (i = 0; i < r2; i++) {
-    for (j = 0; j < c2; j++) {
-      cin >> ar2[i][j];
-    }
-  }
-int prod[r1][c2]={};
-  if (c1 == r2) {
-    int K = c1;
-    
-    for (i = 0; i < r1; i++) {
-      for (j = 0; j < c2; j++) {
-        for (k = 0; k < K; k++) {
-  prod[i][j] = prod[i][j] + ar1[i][k] * ar2[k][j];
+int main(){
+    int n1, n2, m1 , m2;
+    int arr1[n1][m1];
+    cin>>n1>>m1;
+    for(int i=0; i<n1; i++){
+        for(int j=0; j<m1; j++){
+            cin>>arr1[n1][m1];
         }
-      }
     }
-     for (i = 0; i < r1; i++) {
-    for (j = 0; j < c2; j++) {
-        cout << prod[i][j]<<' ';
-      }
-      cout << endl;
+    cin>>n2>>m2;
+   int arr2[n2][m2],arr3[n1][m2];
+    for(int i=0; i<n2; i++){
+        for(int j=0; j<m2; j++){
+            cin>>arr2[n2][m2];
+        }
     }
+if(m1==n2){
+    arr3[0][0]=0;
+    for(int i=0; i<n1;i++){
+        for(int j=0; j<m2; j++){
+            for(int k=0; k<m1; k++){
+                arr3[i][j]+=arr1[i][k]*arr2[j][k];
+            }
+        }
     }
-    else{
-        cout<<"Invalid input";
-    }
-    
+}    
    
-    return 0;
-
-  }
+for(int i=0; i<n1; i++){
+    for(int j=0; j<m2; j++){
+        cout<<arr3[n1][m2]<<' ';
+        
+    }
+    cout<<endl;
+} 
+return 0;
+    
+}
