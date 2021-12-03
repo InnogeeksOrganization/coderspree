@@ -1,0 +1,21 @@
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scn = new Scanner(System.in);
+int n=scn.nextInt();
+int i,j;
+if(n>1)
+{
+    for(i=n;i>0;i--)
+    {
+        for(j=i;j>0;j--)
+        {
+            System.out.print("*\t");
+        }
+        System.out.println();
+    }
+
+    }
+}}
