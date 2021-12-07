@@ -1,0 +1,49 @@
+ #include <iostream>
+using namespace std;
+
+int main(int argc, char **argv){
+int n,i,j,p;
+cin>>n;
+p=(n+1)/2;
+int u=1;
+while(p!=0)
+{
+
+for(i=p-1;i>0;i--)
+{
+    cout<<"\t";
+    
+}
+for(j=1;j<=u;j++)
+{
+    cout<<"*\t";
+}
+cout<<"\n";
+
+p--;
+u=u+2;
+
+    
+}
+int d=(n+1)/2;
+int q=1;
+int y=(n+1)/2;
+while(d>0)
+{
+    for(i=1;i<=q;i++)
+    {
+        cout<<"\t";
+    }
+    for(j=1;j<=d;j++)
+    {
+        cout<<"*\t";
+    }
+    cout<<endl;
+    d=d-2;
+    q=q+1;
+}
+
+
+
+
+return 0;}
