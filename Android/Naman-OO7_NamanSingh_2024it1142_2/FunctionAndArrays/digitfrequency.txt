@@ -1,0 +1,24 @@
+#include <stdio.h>
+int getDigitFrequency(int n, int d);
+int main()
+{
+    int n,d,f;
+    scanf("%d",&n);
+    //printf("Enter the value of n");
+    scanf("%d",&d);
+    //printf("Enter the value of b");
+    f = getDigitFrequency(n, d);
+    printf("%d",f);
+    }
+
+     int getDigitFrequency(int n, int d) {
+        int c=0,i;
+        while(n>0)
+        {
+            if(n%10==d)
+            c++;
+            n=n/10;
+        }
+        return c;
+    
+}
