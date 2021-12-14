@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main() 
+{ 
+    int num; 
+    printf("Enter a positive integer\n"); 
+    scanf("%d", &num); 
+    int count; 
+    printf("%d\n", num);
+    for(count = 2; num > 1; count++) 
+    { 
+        while(num % count == 0) 
+        { 
+            printf("%d ", count); 
+            num = num / count; 
+            
+        } 
+        
+    }
+     
+}
