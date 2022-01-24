@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+ int ValueInBase(int ,int );
+ int main()
+ {
+     int n,b,dn;
+     //printf("Enter the value of n");   
+     scanf("%d",&n);
+     //printf("Enter the value of b");  
+     scanf("%d",&b);
+    dn =  ValueInBase(n, b);
+    printf("%d",dn);
+ }
+  
+    int ValueInBase(int n, int b){
+       int i,num=0,r=1;
+       while(n>0)
+       {
+           i=n%b;
+           num=num+i*r;
+           r=r*10;
+           n=n/b;
+           
+       }
+       
+       return num;
+       
+  } 

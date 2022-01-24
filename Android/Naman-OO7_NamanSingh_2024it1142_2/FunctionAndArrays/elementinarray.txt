@@ -1,0 +1,26 @@
+#include<stdio.h>
+#include <math.h>
+int main()
+{
+    int f=-1;
+    int n,a[50],d,i ;
+    //prinf("Enter the value of n");
+    scanf("%d",&n);
+    for(i=0;i<n;i++)
+    {
+      scanf("%d",&a[i]);
+    }
+    //printf("Enter the value of b");
+    scanf("%d",&d);
+
+    for (i=0;i<n;i++)
+    {
+      if (d==a[i]) 
+        {
+            printf("%d",i);
+            f++;
+        }
+    }
+ if(f==-1)
+ printf("-1");
+}

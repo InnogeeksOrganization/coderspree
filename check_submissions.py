@@ -1,13 +1,13 @@
 import os
 from pathlib import Path
-from typing import List
+from typing import Any, List
 from mdutils.mdutils import MdUtils
 import requests
 
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {"GettingStarted": 5, "Patterns": 6, "FunctionAndArrays": 5}
+submission_architecture = {"GettingStarted": 5, "Patterns": 6, "FunctionAndArrays": 5, "2DArrays": 5}
 
 domains = ["AR-VR", "IOT", "ML", "Android", "Web"]
 
@@ -84,11 +84,11 @@ def write_to_readme(filename, students_list):
         )
     )
     mdFile.new_line()
-    
-    mdFile.new_paragraph('Please visit the [Guide](./Guide/README.md)')
-    
+
+    mdFile.new_paragraph("Please visit the [Guide](./Guide/README.md)")
+
     mdFile.new_line()
-    
+
     mdFile.new_paragraph(
         "Minimum problems to complete | "
         + "".join(
@@ -96,7 +96,7 @@ def write_to_readme(filename, students_list):
         )
     )
 
-    list_of_strings = ["No", "Profile", "Name", "Domain", "Year", "Solved"]
+    list_of_strings: List[Any] = ["No", "Profile", "Name", "Domain", "Year", "Solved"]
 
     cols_count = len(list_of_strings)
     mdFile.new_line()
@@ -112,7 +112,12 @@ def write_to_readme(filename, students_list):
                     text=student.name,
                     path=student.url,
                 ),
-                student.name,
+                mdFile.new_inline_link(
+                    link=f"https://github.com/{student.githubID}"
+                    if student.githubID != "Invalid Foldername"
+                    else "https://github.com/InnogeeksOrganization",
+                    text=student.name,
+                ),
                 student.domain,
                 student.year,
                 str(student.solved),
@@ -148,7 +153,12 @@ def write_to_pendingReadme(filename, students_list):
                     text=student.name,
                     path=student.url,
                 ),
-                student.name,
+                mdFile.new_inline_link(
+                    link=f"https://github.com/{student.githubID}"
+                    if student.githubID != "Invalid Foldername"
+                    else "https://github.com/InnogeeksOrganization",
+                    text=student.name,
+                ),
                 student.domain,
                 str(student.solved),
                 student.year,
@@ -198,15 +208,3 @@ completed_student_list.sort(key=lambda x: x.solved, reverse=True)
 
 write_to_readme("README.md", completed_student_list)
 write_to_pendingReadme("PendingStudents.md", incompleted_student_list)
-
-
-print("============================COMPLETE STUDENTS LOGS============================")
-for student in completed_student_list:
-    print(student)
-
-# print to github actions
-print(
-    "============================INCOMPLETE STUDENTS LOGS============================"
-)
-for student in incompleted_student_list:
-    print(student)
