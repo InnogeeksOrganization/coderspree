@@ -113,8 +113,10 @@ def write_to_readme(filename, students_list):
                     path=student.url,
                 ),
                 mdFile.new_inline_link(
-                    link=f"https://github.com/{student.githubID}", 
-                    text=student.name
+                    link=f"https://github.com/{student.githubID}"
+                    if student.githubID != "Invalid Foldername"
+                    else "https://github.com/InnogeeksOrganization",
+                    text=student.name,
                 ),
                 student.domain,
                 student.year,
@@ -151,7 +153,12 @@ def write_to_pendingReadme(filename, students_list):
                     text=student.name,
                     path=student.url,
                 ),
-                student.name,
+                mdFile.new_inline_link(
+                    link=f"https://github.com/{student.githubID}"
+                    if student.githubID != "Invalid Foldername"
+                    else "https://github.com/InnogeeksOrganization",
+                    text=student.name,
+                ),
                 student.domain,
                 str(student.solved),
                 student.year,
