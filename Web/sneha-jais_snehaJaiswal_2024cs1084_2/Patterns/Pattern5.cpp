@@ -5,7 +5,7 @@ int main(int argc, char **argv){
     int n;
     cin >> n;
 
-    //write your code here
+ 
 int space=n/2;
 int star=1;
     for(int i=0; i<n; i++){
