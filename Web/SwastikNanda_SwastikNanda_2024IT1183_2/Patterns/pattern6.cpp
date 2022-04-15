@@ -9,7 +9,7 @@
 //     int b=1;
 //     for(int i=1;i<=((n/2)+1);i++)
 //     {
-//         for(int j=n-l;j>0;j--){                       //commented code is working properly on VS code and online compilers but not on pepcoding site. 
+//         for(int j=n-l;j>0;j--){                       //this code is working properly on VS code and online compilers but not on pepcoding site. 
 //             printf("* ");
 //         }
 //         for(int k=b;k>0;k--){
@@ -49,7 +49,7 @@ using namespace std;
 int main(int argc, char **argv){
     int n;
     cin >> n;
-                                                        
+
     int stars = n / 2 + 1;
     int spaces = 1;
     for (int i = 1; i <= n; i++){
