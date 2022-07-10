@@ -9,8 +9,7 @@ Coderspree
 Please visit the [Guide](./Guide/README.md)  
 
 
-Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **FunctionAndArrays**: `5` | **2DArrays**: 
-`5` |   
+Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **FunctionAndArrays**: `5` | **2DArrays**: `5` |   
 
 # Stats
   
