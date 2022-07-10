@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
+
 struct Node
 {
     int data;
@@ -26,6 +28,7 @@ Node *construct(int arr[], int n)
         else
         {
             Node *t = newNode(arr[i]);
+
             if (st.size() > 0)
             {
                 st.top()->children.push_back(t);
@@ -40,28 +43,34 @@ Node *construct(int arr[], int n)
     return root;
 }
 
-int size(Node *node)
+int c = INT_MAX;
+int flloor = INT_MIN;
+
+void cnf(Node *node, int data)
 {
-    if (node == NULL)
-        return 0;
-    int count = 0;
-    for (auto i : node->children)
-    {
-        count++;
-        count += size(i);
-    }
-    return count;
+    if (node->data > data)
+        c = min(c, node->data);
+    if (node->data < data)
+        flloor = max(flloor, node->data);
+    for (auto child : node->children)
+        cnf(child, data);
 }
 
 int main()
 {
+
     int n;
     cin >> n;
+
     int arr[n];
     for (int i = 0; i < n; i++)
     {
         cin >> arr[i];
     }
+    int data;
+    cin >> data;
     Node *root = construct(arr, n);
-    cout << size(root) + 1 << endl;
+    cnf(root, data);
+    cout << "CEIL = " << c << endl;
+    cout << "FLOOR = " << flloor << endl;
 }
